@@ -1,0 +1,10 @@
+{
+  "name": "widi-feed-noticias",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Radar de Mercado Widi Care — feed diário de notícias (e-commerce, beleza, logística, investimento, concorrentes) via RSS + Google News.",
+  "scripts": {
+    "gerar": "node scripts/gerar-feed.mjs"
+  }
+}

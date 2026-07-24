@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Radar de Mercado — Widi Care</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --creme: #F5F0EB;
+    --creme-card: #FFFFFF;
+    --rose: #E8547A;
+    --rose-soft: #FBE9EF;
+    --tinta: #2B2622;
+    --tinta-soft: #6E655E;
+    --linha: #EAE2D8;
+    --sombra: 0 1px 3px rgba(43,38,34,.06), 0 8px 24px rgba(43,38,34,.05);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Inter', system-ui, sans-serif;
+    background: var(--creme);
+    color: var(--tinta);
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 32px 20px 64px; }
+
+  header { margin-bottom: 24px; }
+  .marca { font-size: 13px; letter-spacing: .18em; text-transform: uppercase; color: var(--rose); font-weight: 600; }
+  h1 { font-family: 'Playfair Display', serif; font-size: 34px; font-weight: 700; margin: 4px 0 6px; }
+  .sub { color: var(--tinta-soft); font-size: 15px; }
+  .meta { display: flex; flex-wrap: wrap; gap: 8px 18px; margin-top: 12px; font-size: 13px; color: var(--tinta-soft); }
+  .meta b { color: var(--tinta); font-weight: 600; }
+
+  .controles { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 24px 0 20px; position: sticky; top: 0; background: var(--creme); padding: 12px 0; z-index: 5; }
+  #busca {
+    flex: 1; min-width: 200px; padding: 11px 14px; border: 1px solid var(--linha);
+    border-radius: 12px; font-size: 14px; font-family: inherit; background: var(--creme-card); color: var(--tinta);
+  }
+  #busca:focus { outline: none; border-color: var(--rose); box-shadow: 0 0 0 3px var(--rose-soft); }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; }
+  .chip {
+    padding: 8px 14px; border-radius: 999px; border: 1px solid var(--linha); background: var(--creme-card);
+    font-size: 13px; font-weight: 500; color: var(--tinta-soft); cursor: pointer; transition: all .15s;
+  }
+  .chip:hover { border-color: var(--rose); color: var(--rose); }
+  .chip.ativo { background: var(--rose); border-color: var(--rose); color: #fff; }
+
+  section { margin-bottom: 34px; }
+  .sec-titulo { display: flex; align-items: baseline; gap: 10px; margin-bottom: 14px; }
+  .sec-titulo h2 { font-family: 'Playfair Display', serif; font-size: 21px; font-weight: 600; }
+  .sec-titulo .cont { font-size: 12px; color: var(--tinta-soft); background: var(--rose-soft); color: var(--rose); padding: 2px 9px; border-radius: 999px; font-weight: 600; }
+
+  .lista { display: grid; gap: 10px; }
+  .item {
+    display: flex; flex-direction: column; gap: 6px; background: var(--creme-card);
+    border: 1px solid var(--linha); border-radius: 14px; padding: 14px 16px; box-shadow: var(--sombra);
+    transition: transform .12s, box-shadow .12s, border-color .12s; text-decoration: none; color: inherit;
+  }
+  .item:hover { transform: translateY(-1px); border-color: var(--rose); box-shadow: 0 4px 12px rgba(232,84,122,.12); }
+  .item .titulo { font-size: 15px; font-weight: 600; color: var(--tinta); }
+  .item .rodape { display: flex; flex-wrap: wrap; gap: 8px 12px; font-size: 12.5px; color: var(--tinta-soft); align-items: center; }
+  .item .fonte { font-weight: 600; color: var(--rose); }
+  .item .dot { color: var(--linha); }
+
+  .vazio { color: var(--tinta-soft); font-size: 14px; font-style: italic; padding: 8px 0; }
+  footer { margin-top: 40px; padding-top: 20px; border-top: 1px solid var(--linha); font-size: 12.5px; color: var(--tinta-soft); }
+  footer a { color: var(--rose); text-decoration: none; }
+  .estado { text-align: center; padding: 60px 20px; color: var(--tinta-soft); }
+
+  @media (max-width: 600px) {
+    h1 { font-size: 27px; }
+    .controles { position: static; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="marca">Widi Care · Inteligência de Mercado</div>
+    <h1>Radar de Mercado</h1>
+    <p class="sub">As matérias mais recentes do nosso mercado, reunidas automaticamente todo dia às 5h.</p>
+    <div class="meta" id="meta"></div>
+  </header>
+
+  <div class="controles">
+    <input type="search" id="busca" placeholder="Buscar por palavra-chave, marca, tema…" />
+    <div class="chips" id="chips"></div>
+  </div>
+
+  <div id="conteudo"><div class="estado">Carregando matérias…</div></div>
+
+  <footer id="rodape"></footer>
+</div>
+
+<script>
+const $ = (s) => document.querySelector(s);
+let DADOS = null, filtroCat = 'todas', termo = '';
+
+function tempoRel(iso) {
+  if (!iso) return '';
+  const d = new Date(iso), diff = (Date.now() - d.getTime()) / 1000;
+  if (diff < 0) return 'agora';
+  if (diff < 3600) return 'há ' + Math.max(1, Math.round(diff / 60)) + ' min';
+  if (diff < 86400) return 'há ' + Math.round(diff / 3600) + 'h';
+  if (diff < 172800) return 'ontem';
+  if (diff < 604800) return 'há ' + Math.round(diff / 86400) + ' dias';
+  return d.toLocaleDateString('pt-BR');
+}
+function esc(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+
+function render() {
+  const cont = $('#conteudo');
+  const cats = DADOS.categorias.filter((c) => filtroCat === 'todas' || c.id === filtroCat);
+  let html = '';
+  let algum = false;
+
+  for (const c of cats) {
+    const itens = c.itens.filter((i) =>
+      !termo || (i.titulo + ' ' + i.fonte).toLowerCase().includes(termo)
+    );
+    if (!itens.length) continue;
+    algum = true;
+    html += `<section><div class="sec-titulo"><h2>${esc(c.nome)}</h2><span class="cont">${itens.length}</span></div><div class="lista">`;
+    for (const i of itens) {
+      const t = tempoRel(i.data);
+      html += `<a class="item" href="${esc(i.url)}" target="_blank" rel="noopener noreferrer">
+        <div class="titulo">${esc(i.titulo)}</div>
+        <div class="rodape"><span class="fonte">${esc(i.fonte)}</span>${t ? `<span class="dot">•</span><span>${t}</span>` : ''}</div>
+      </a>`;
+    }
+    html += `</div></section>`;
+  }
+
+  cont.innerHTML = algum ? html : `<div class="estado">Nenhuma matéria encontrada para “${esc(termo)}”.</div>`;
+}
+
+function montarChips() {
+  const chips = $('#chips');
+  const botoes = [{ id: 'todas', nome: 'Todas' }, ...DADOS.categorias.map((c) => ({ id: c.id, nome: c.nome }))];
+  chips.innerHTML = botoes.map((b) =>
+    `<button class="chip ${b.id === 'todas' ? 'ativo' : ''}" data-id="${b.id}">${esc(b.nome)}</button>`
+  ).join('');
+  chips.querySelectorAll('.chip').forEach((el) => {
+    el.onclick = () => {
+      filtroCat = el.dataset.id;
+      chips.querySelectorAll('.chip').forEach((x) => x.classList.toggle('ativo', x === el));
+      render();
+    };
+  });
+}
+
+function montarMeta() {
+  const d = new Date(DADOS.gerado_em);
+  const quando = d.toLocaleString('pt-BR', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
+  $('#meta').innerHTML =
+    `<span>Atualizado em <b>${quando}</b></span>` +
+    `<span><b>${DADOS.total_materias}</b> matérias</span>` +
+    `<span><b>${DADOS.fontes_ok}</b> fontes ativas</span>`;
+
+  const falhas = (DADOS.fontes_falha || []).length;
+  $('#rodape').innerHTML =
+    `Feed gerado automaticamente todo dia às 05:00 (BRT) · ` +
+    `${falhas ? `<b>${falhas}</b> fonte(s) sem retorno nesta rodada · ` : ''}` +
+    `Curadoria de fontes na nota <em>Rotina de Notícias — Leitura Matinal</em>.`;
+}
+
+fetch('dados/feed.json?v=' + Date.now())
+  .then((r) => { if (!r.ok) throw new Error('sem feed'); return r.json(); })
+  .then((d) => {
+    DADOS = d;
+    montarMeta(); montarChips(); render();
+    $('#busca').addEventListener('input', (e) => { termo = e.target.value.toLowerCase().trim(); render(); });
+  })
+  .catch(() => {
+    $('#conteudo').innerHTML = '<div class="estado">Ainda não há feed gerado. Rode <code>node scripts/gerar-feed.mjs</code> ou aguarde a primeira execução automática das 5h.</div>';
+  });
+</script>
+</body>
+</html>

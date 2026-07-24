@@ -1,0 +1,53 @@
+name: Atualizar feed de notícias
+
+on:
+  schedule:
+    # 08:00 UTC = 05:00 BRT (horário de Brasília, UTC-3)
+    - cron: '0 8 * * *'
+  workflow_dispatch:  # permite disparar manualmente pela aba Actions
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Setup Node 20
+        uses: actions/setup-node@v5
+        with:
+          node-version: '20'
+
+      - name: Gerar feed (RSS + Google News)
+        run: node scripts/gerar-feed.mjs
+
+      - name: Commitar feed atualizado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dados/
+          if git diff --staged --quiet; then
+            echo "Sem mudanças no feed — nada a commitar."
+          else
+            git commit -m "feed: atualização automática $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
+
+      - name: Avisar falha (abre issue)
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          ABERTA=$(gh issue list --repo "$REPO" --state open --search "Feed de notícias falhou in:title" --json number --jq '.[0].number' || true)
+          if [ -z "$ABERTA" ]; then
+            gh issue create --repo "$REPO" \
+              --title "🔴 Feed de notícias falhou — página desatualizada" \
+              --body "O workflow agendado falhou e o feed NÃO foi atualizado. Log: $RUN_URL" || true
+          else
+            gh issue comment "$ABERTA" --repo "$REPO" --body "Falhou de novo: $RUN_URL" || true
+          fi
