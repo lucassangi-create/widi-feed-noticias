@@ -35,7 +35,7 @@
   .meta { display: flex; flex-wrap: wrap; gap: 8px 18px; margin-top: 12px; font-size: 13px; color: var(--tinta-soft); }
   .meta b { color: var(--tinta); font-weight: 600; }
 
-  .controles { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 24px 0 20px; position: sticky; top: 0; background: var(--creme); padding: 12px 0; z-index: 5; }
+  .controles { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 24px 0 8px; position: sticky; top: 0; background: var(--creme); padding: 12px 0; z-index: 5; }
   #busca {
     flex: 1; min-width: 200px; padding: 11px 14px; border: 1px solid var(--linha);
     border-radius: 12px; font-size: 14px; font-family: inherit; background: var(--creme-card); color: var(--tinta);
@@ -44,32 +44,42 @@
   .chips { display: flex; flex-wrap: wrap; gap: 8px; }
   .chip {
     padding: 8px 14px; border-radius: 999px; border: 1px solid var(--linha); background: var(--creme-card);
-    font-size: 13px; font-weight: 500; color: var(--tinta-soft); cursor: pointer; transition: all .15s;
+    font-size: 13px; font-weight: 500; color: var(--tinta-soft); cursor: pointer; transition: all .15s; font-family: inherit;
   }
   .chip:hover { border-color: var(--rose); color: var(--rose); }
   .chip.ativo { background: var(--rose); border-color: var(--rose); color: #fff; }
-
-  section { margin-bottom: 34px; }
-  .sec-titulo { display: flex; align-items: baseline; gap: 10px; margin-bottom: 14px; }
-  .sec-titulo h2 { font-family: 'Playfair Display', serif; font-size: 21px; font-weight: 600; }
-  .sec-titulo .cont { font-size: 12px; color: var(--tinta-soft); background: var(--rose-soft); color: var(--rose); padding: 2px 9px; border-radius: 999px; font-weight: 600; }
+  .barra-status { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; margin: 0 0 18px; font-size: 13px; color: var(--tinta-soft); }
+  #contador b { color: var(--tinta); }
+  #toggleLidas { cursor: pointer; }
 
   .lista { display: grid; gap: 10px; }
   .item {
-    display: flex; flex-direction: column; gap: 6px; background: var(--creme-card);
+    display: flex; align-items: flex-start; gap: 12px; background: var(--creme-card);
     border: 1px solid var(--linha); border-radius: 14px; padding: 14px 16px; box-shadow: var(--sombra);
-    transition: transform .12s, box-shadow .12s, border-color .12s; text-decoration: none; color: inherit;
+    transition: transform .12s, box-shadow .12s, border-color .12s, opacity .12s;
   }
-  .item:hover { transform: translateY(-1px); border-color: var(--rose); box-shadow: 0 4px 12px rgba(232,84,122,.12); }
-  .item .titulo { font-size: 15px; font-weight: 600; color: var(--tinta); }
-  .item .rodape { display: flex; flex-wrap: wrap; gap: 8px 12px; font-size: 12.5px; color: var(--tinta-soft); align-items: center; }
-  .item .fonte { font-weight: 600; color: var(--rose); }
-  .item .dot { color: var(--linha); }
+  .item:hover { border-color: var(--rose); box-shadow: 0 4px 12px rgba(232,84,122,.12); }
+  .item-main { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 6px; }
+  .titulo { font-size: 15px; font-weight: 600; color: var(--tinta); text-decoration: none; }
+  .titulo:hover { color: var(--rose); }
+  .rodape { display: flex; flex-wrap: wrap; gap: 8px 10px; font-size: 12.5px; color: var(--tinta-soft); align-items: center; }
+  .tag { font-size: 11px; font-weight: 600; color: var(--rose); background: var(--rose-soft); padding: 2px 8px; border-radius: 999px; }
+  .fonte { font-weight: 600; color: var(--tinta); }
+  .dot { color: var(--linha); }
 
-  .vazio { color: var(--tinta-soft); font-size: 14px; font-style: italic; padding: 8px 0; }
+  .btn-lida {
+    flex: none; width: 30px; height: 30px; border-radius: 50%; border: 1px solid var(--linha);
+    background: var(--creme); color: var(--tinta-soft); cursor: pointer; font-size: 14px; line-height: 1;
+    display: grid; place-items: center; transition: all .12s;
+  }
+  .btn-lida:hover { border-color: var(--rose); background: var(--rose); color: #fff; }
+
+  .item.lida { opacity: .5; }
+  .item.lida .titulo { text-decoration: line-through; text-decoration-color: var(--tinta-soft); font-weight: 500; }
+
+  .estado { text-align: center; padding: 60px 20px; color: var(--tinta-soft); font-size: 15px; }
   footer { margin-top: 40px; padding-top: 20px; border-top: 1px solid var(--linha); font-size: 12.5px; color: var(--tinta-soft); }
   footer a { color: var(--rose); text-decoration: none; }
-  .estado { text-align: center; padding: 60px 20px; color: var(--tinta-soft); }
 
   @media (max-width: 600px) {
     h1 { font-size: 27px; }
@@ -82,13 +92,18 @@
   <header>
     <div class="marca">Widi Care · Inteligência de Mercado</div>
     <h1>Radar de Mercado</h1>
-    <p class="sub">As matérias mais recentes do nosso mercado, reunidas automaticamente todo dia às 5h.</p>
+    <p class="sub">As matérias mais recentes do nosso mercado, em ordem de publicação. Marque como lida para tirar do topo.</p>
     <div class="meta" id="meta"></div>
   </header>
 
   <div class="controles">
     <input type="search" id="busca" placeholder="Buscar por palavra-chave, marca, tema…" />
     <div class="chips" id="chips"></div>
+  </div>
+
+  <div class="barra-status">
+    <span id="contador"></span>
+    <button class="chip" id="toggleLidas" style="display:none">Mostrar lidas</button>
   </div>
 
   <div id="conteudo"><div class="estado">Carregando matérias…</div></div>
@@ -98,7 +113,12 @@
 
 <script>
 const $ = (s) => document.querySelector(s);
-let DADOS = null, filtroCat = 'todas', termo = '';
+const CHAVE_LIDAS = 'widi_radar_lidas';
+let DADOS = null, filtroCat = 'todas', termo = '', mostrarLidas = false;
+let LIDAS = new Set();
+
+try { LIDAS = new Set(JSON.parse(localStorage.getItem(CHAVE_LIDAS) || '[]')); } catch (e) {}
+function salvarLidas() { try { localStorage.setItem(CHAVE_LIDAS, JSON.stringify([...LIDAS])); } catch (e) {} }
 
 function tempoRel(iso) {
   if (!iso) return '';
@@ -110,32 +130,65 @@ function tempoRel(iso) {
   if (diff < 604800) return 'há ' + Math.round(diff / 86400) + ' dias';
   return d.toLocaleDateString('pt-BR');
 }
-function esc(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+function esc(s) { const d = document.createElement('div'); d.textContent = s == null ? '' : s; return d.innerHTML; }
+function escAttr(s) { return String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
+
+// Junta as matérias das categorias do filtro atual numa lista única, ordenada por publicação.
+function coletarItens() {
+  const itens = [];
+  for (const c of DADOS.categorias) {
+    if (filtroCat !== 'todas' && c.id !== filtroCat) continue;
+    for (const i of c.itens) itens.push({ ...i, cat: c.nome });
+  }
+  const filtrados = termo ? itens.filter((i) => (i.titulo + ' ' + i.fonte).toLowerCase().includes(termo)) : itens;
+  // Ordenação por ordem de publicação (mais recente primeiro); sem data vai pro fim.
+  filtrados.sort((a, b) => (b.ts || 0) - (a.ts || 0));
+  return filtrados;
+}
+
+function itemHTML(i) {
+  const lida = LIDAS.has(i.url);
+  const t = tempoRel(i.data);
+  return `<div class="item ${lida ? 'lida' : ''}" data-url="${escAttr(i.url)}">
+    <div class="item-main">
+      <a class="titulo" href="${escAttr(i.url)}" target="_blank" rel="noopener noreferrer">${esc(i.titulo)}</a>
+      <div class="rodape">
+        <span class="tag">${esc(i.cat)}</span>
+        <span class="fonte">${esc(i.fonte)}</span>
+        ${t ? `<span class="dot">•</span><span>${t}</span>` : ''}
+      </div>
+    </div>
+    <button class="btn-lida" data-action="${lida ? 'unread' : 'read'}" title="${lida ? 'Marcar como não lida' : 'Marcar como lida'}" aria-label="${lida ? 'Marcar como não lida' : 'Marcar como lida'}">${lida ? '↩' : '✓'}</button>
+  </div>`;
+}
 
 function render() {
   const cont = $('#conteudo');
-  const cats = DADOS.categorias.filter((c) => filtroCat === 'todas' || c.id === filtroCat);
-  let html = '';
-  let algum = false;
+  const itens = coletarItens();
+  const naoLidas = itens.filter((i) => !LIDAS.has(i.url));
+  const lidas = itens.filter((i) => LIDAS.has(i.url));
+  const visiveis = mostrarLidas ? [...naoLidas, ...lidas] : naoLidas;
 
-  for (const c of cats) {
-    const itens = c.itens.filter((i) =>
-      !termo || (i.titulo + ' ' + i.fonte).toLowerCase().includes(termo)
-    );
-    if (!itens.length) continue;
-    algum = true;
-    html += `<section><div class="sec-titulo"><h2>${esc(c.nome)}</h2><span class="cont">${itens.length}</span></div><div class="lista">`;
-    for (const i of itens) {
-      const t = tempoRel(i.data);
-      html += `<a class="item" href="${esc(i.url)}" target="_blank" rel="noopener noreferrer">
-        <div class="titulo">${esc(i.titulo)}</div>
-        <div class="rodape"><span class="fonte">${esc(i.fonte)}</span>${t ? `<span class="dot">•</span><span>${t}</span>` : ''}</div>
-      </a>`;
-    }
-    html += `</div></section>`;
+  // Barra de status
+  $('#contador').innerHTML = `<b>${naoLidas.length}</b> não lida${naoLidas.length === 1 ? '' : 's'}`;
+  const bt = $('#toggleLidas');
+  if (lidas.length || mostrarLidas) {
+    bt.style.display = '';
+    bt.textContent = (mostrarLidas ? 'Ocultar lidas' : 'Mostrar lidas') + (lidas.length ? ` (${lidas.length})` : '');
+    bt.classList.toggle('ativo', mostrarLidas);
+  } else {
+    bt.style.display = 'none';
   }
 
-  cont.innerHTML = algum ? html : `<div class="estado">Nenhuma matéria encontrada para “${esc(termo)}”.</div>`;
+  if (!visiveis.length) {
+    let msg;
+    if (termo) msg = `Nada encontrado para “${esc(termo)}”.`;
+    else if (lidas.length && !mostrarLidas) msg = 'Tudo lido por aqui 🎉 — clique em <b>Mostrar lidas</b> para rever.';
+    else msg = 'Sem matérias nesta seção.';
+    cont.innerHTML = `<div class="estado">${msg}</div>`;
+    return;
+  }
+  cont.innerHTML = `<div class="lista">${visiveis.map(itemHTML).join('')}</div>`;
 }
 
 function montarChips() {
@@ -160,13 +213,29 @@ function montarMeta() {
     `<span>Atualizado em <b>${quando}</b></span>` +
     `<span><b>${DADOS.total_materias}</b> matérias</span>` +
     `<span><b>${DADOS.fontes_ok}</b> fontes ativas</span>`;
-
   const falhas = (DADOS.fontes_falha || []).length;
   $('#rodape').innerHTML =
     `Feed gerado automaticamente todo dia às 05:00 (BRT) · ` +
     `${falhas ? `<b>${falhas}</b> fonte(s) sem retorno nesta rodada · ` : ''}` +
-    `Curadoria de fontes na nota <em>Rotina de Notícias — Leitura Matinal</em>.`;
+    `Suas matérias lidas ficam salvas neste navegador.`;
 }
+
+// Marcar/desmarcar como lida, e marcar ao abrir (comportamento de caixa de entrada).
+$('#conteudo').addEventListener('click', (e) => {
+  const btn = e.target.closest('.btn-lida');
+  if (btn) {
+    const url = btn.closest('.item').dataset.url;
+    if (btn.dataset.action === 'read') LIDAS.add(url); else LIDAS.delete(url);
+    salvarLidas(); render();
+    return;
+  }
+  const link = e.target.closest('a.titulo');
+  if (link) {
+    const url = link.closest('.item').dataset.url;
+    if (!LIDAS.has(url)) { LIDAS.add(url); salvarLidas(); setTimeout(render, 60); }
+  }
+});
+$('#toggleLidas').addEventListener('click', () => { mostrarLidas = !mostrarLidas; render(); });
 
 fetch('dados/feed.json?v=' + Date.now())
   .then((r) => { if (!r.ok) throw new Error('sem feed'); return r.json(); })
@@ -176,7 +245,7 @@ fetch('dados/feed.json?v=' + Date.now())
     $('#busca').addEventListener('input', (e) => { termo = e.target.value.toLowerCase().trim(); render(); });
   })
   .catch(() => {
-    $('#conteudo').innerHTML = '<div class="estado">Ainda não há feed gerado. Rode <code>node scripts/gerar-feed.mjs</code> ou aguarde a primeira execução automática das 5h.</div>';
+    $('#conteudo').innerHTML = '<div class="estado">Ainda não há feed gerado. Rode <code>node scripts/gerar-feed.mjs</code> ou aguarde a execução automática das 5h.</div>';
   });
 </script>
 </body>
