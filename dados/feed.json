@@ -1,8 +1,10 @@
 {
-  "gerado_em": "2026-07-25T09:26:24.408Z",
+  "gerado_em": "2026-07-26T09:49:49.823Z",
   "total_materias": 81,
-  "fontes_ok": 18,
-  "fontes_falha": [],
+  "fontes_ok": 17,
+  "fontes_falha": [
+    "E-commerce & Varejo → Consumidor Moderno: HTTP 415"
+  ],
   "categorias": [
     {
       "id": "ecommerce",
@@ -16,13 +18,6 @@
           "data": "2026-07-25T04:00:00.000Z"
         },
         {
-          "titulo": "Financiamento pela Caixa: consumidor pode recusar seguro e outros produtos",
-          "fonte": "Consumidor Moderno",
-          "url": "https://consumidormoderno.com.br/financiamento-pela-caixa-justica/",
-          "ts": 1784925060000,
-          "data": "2026-07-24T20:31:00.000Z"
-        },
-        {
           "titulo": "‘We aren’t impacted’: Lettuce brands are on an awareness push amid the cyclospora outbreak",
           "fonte": "Modern Retail",
           "url": "https://www.modernretail.co/marketing/we-arent-impacted-lettuce-brands-are-on-an-awareness-push-amid-the-cyclospora-outbreak/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
@@ -30,39 +25,18 @@
           "data": "2026-07-24T20:11:17.000Z"
         },
         {
-          "titulo": "CM Responde: Como saber se um site de ingressos é oficial?",
-          "fonte": "Consumidor Moderno",
-          "url": "https://consumidormoderno.com.br/site-parece-oficial/",
-          "ts": 1784923265000,
-          "data": "2026-07-24T20:01:05.000Z"
-        },
-        {
-          "titulo": "Inovação como conveniência real: o desafio do CX na visão da Localiza&Co",
-          "fonte": "Consumidor Moderno",
-          "url": "https://consumidormoderno.com.br/cx-inovacao-conveniencia-localiza/",
-          "ts": 1784922048000,
-          "data": "2026-07-24T19:40:48.000Z"
-        },
-        {
-          "titulo": "Os 3 pilares do crédito sustentável, segundo a Creditas",
-          "fonte": "Consumidor Moderno",
-          "url": "https://consumidormoderno.com.br/pilares-credito-sustentavel-creditas/",
-          "ts": 1784920526000,
-          "data": "2026-07-24T19:15:26.000Z"
-        },
-        {
-          "titulo": "ANAC proíbe cobrança para crianças sentarem ao lado da família em voos",
-          "fonte": "Consumidor Moderno",
-          "url": "https://consumidormoderno.com.br/familia-anac-criancas-ao-lado-dos-pais/",
-          "ts": 1784917884000,
-          "data": "2026-07-24T18:31:24.000Z"
-        },
-        {
           "titulo": "Vendas online no Brasil crescem 9% em 2025 e movimentam US$ 3,8 bi na América Latina - Mercado&Consumo",
           "fonte": "Mercado&Consumo",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdURGa0ViWmtZV0lGa0RneDNuWUNscW9tZnRRT3VEWVpzWVk5TF9ZVGZkeDU2QU81bUFBdDhVWk1fcUhMNUJJdkdlRWJyY1RvX3JJcTZPV0pGbTlWbDZpUlI4c3N6M0dLdFUyZlRXTGF4dWhyN2RYTFZ2ZzBEV3MwRHk3Yi1VSzRHSFZhNWhBTzF0UTd1U2lxV091R2hoZDZrQUtqR3pBUy1EVlI2OUp4Y0Q4MXFpSjU3TGJsbGdCWktlYjlIRDdxTmUzVUlhOHfSAdQBQVVfeXFMT2t3OXphcHVsNkNpMmVXMUg4ay1GbDcwNjQ5MHBRT3ZWcHFiWmRBUG5CRXF5T21nT2U2U1BZT0FjWDFSMVpUR0lyckRPeGlvQ3VYMGx3Z1BmOVZtR3NabmpWeVlSRENESDA5NHdXUVYwejhBM29sTGM4TlA1ZjQ5X0ZNeVFqQWp0bEMzV09TampVVE9ZUXdGc085ZDdWdTNyRGhBZzZNRWdPSWRrNTRPcFNPYURKR1FCeXlIM2hSR1o3cURCYjJHYkpSSWpOcTF2bElfUUs?oc=5",
           "ts": 1784914360000,
           "data": "2026-07-24T17:32:40.000Z"
+        },
+        {
+          "titulo": "O passo a passo para deixar os marketplaces a favor do seu negócio estará no Fórum ECBR - E-Commerce Brasil",
+          "fonte": "E-Commerce Brasil",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdlBuSHFCZEdRZGNyc2NkX1lxb081dG1wdDZpNkxaenc3bi1xN1RlVmtyTk1hV2lBZm9xNEFTdV9qdFRPeVNxdkdpcXV1RmFiSGxITTJHeGdSeC1sWi1QdXhLdTU1cnNfd09LM1lpQy1EdVZRbTZfVWRsbVdaUU5QWXY4dDVKMWFZYThZYnd3elVNMm5pV2RlVXB6V0J5ZU9fRU5JOGhXUnB4OW0zZUFMZFNJQUJxU2JZV0l4Tk95cmZocExjWGZ3WVNSdw?oc=5",
+          "ts": 1784888862000,
+          "data": "2026-07-24T10:27:42.000Z"
         },
         {
           "titulo": "Yuno apresenta inovação e IA para meios de pagamento no Fórum E-Commerce Brasil 2026 - E-Commerce Brasil",
@@ -86,20 +60,6 @@
           "data": "2026-07-24T04:00:00.000Z"
         },
         {
-          "titulo": "IA avança no setor público, mas cidadão ainda enfrenta os mesmos problemas",
-          "fonte": "Consumidor Moderno",
-          "url": "https://consumidormoderno.com.br/ia-setor-publico-retorno-cidadao/",
-          "ts": 1784842053000,
-          "data": "2026-07-23T21:27:33.000Z"
-        },
-        {
-          "titulo": "Artigos e notícias mais recentes de Mônica Granzo - E-Commerce Brasil",
-          "fonte": "E-Commerce Brasil",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oSFlxMXFyMkNEdkhad2l1OGlqMkhQRWRmZ2ZpVmlCS0djT1d6VjBOUlFfUS1EV3F6U1lkanhaWEYyaWs2MzU1bnlmZ3lvUjZyTDJud2dTZUpobGRoV2U1ejhBUDQ?oc=5",
-          "ts": 1784825809000,
-          "data": "2026-07-23T16:56:49.000Z"
-        },
-        {
           "titulo": "Marketplace Briefing: How Whatnot’s AI-powered recommendation system gives it a competitive edge",
           "fonte": "Modern Retail",
           "url": "https://www.modernretail.co/technology/marketplace-briefing-how-whatnots-ai-powered-recommendation-system-gives-it-a-competitive-edge/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
@@ -119,6 +79,48 @@
           "url": "https://www.modernretail.co/marketing/the-back-to-school-denim-wars-are-starting-earlier-and-lasting-longer/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
           "ts": 1784779200000,
           "data": "2026-07-23T04:00:00.000Z"
+        },
+        {
+          "titulo": "A inteligência artificial não substitui a estratégia: a necessidade de novos frameworks para o crescimento sustentável no e-commerce - E-Commerce Brasil",
+          "fonte": "E-Commerce Brasil",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTVJBVFYwVzdSUWZDRGcwQVRjWGhzMmNDRXV2R2VsY3pRR0pWU0JBZEUwblllQThRZFg3ejczM1hyTkJzTXZhakRTalpzNWRDZ2llUktSb2c5WmM0TzVaLXRhY3piNk5DR2NpZnZGYUV0c1RULTZfNnhuZkZEZDBVaEZjZ0RhU1pBTlJoQjZENEpVckZRZi05OGhFdGF2VVpvcGJwRFlRWEVwQ1VscGtjSmlTejFDd1d6S2RfeWljd1hHS3VhamZ5a1B3NHhZY3A4OFlyT2d5d2xjaGdDUDd6MUVzRWJGdG8ySkVIdndDdnVZSlZmazVuZ1JwNmlBdFF5OXROOA?oc=5",
+          "ts": 1784728590000,
+          "data": "2026-07-22T13:56:30.000Z"
+        },
+        {
+          "titulo": "Seller House leva estratégias para marketplaces ao Fórum E-Commerce Brasil 2026 - E-Commerce Brasil",
+          "fonte": "E-Commerce Brasil",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZTFab2FyWXlybnhLdmQ1LUZVcXBnTzBPQmgwZjNTNkJzR1hxdE92cWk4OHBCM3dQOW5fYXNuNXl5dEpTbU10VUE0aW1IVVBLTXktSWJjcG9PbkZtaDB4OHduUWdGZmNYWjlJVnJoRUQ3WHdMZVR1TFhqWDlVX1lJcFhTbVJHV3NxcWpjT19vbmo1RVNKdXRMMUNZMU5QeGlJaW02a0ozT2JMcGNQTTZfQkU3UnNXa1FRUGpSeEFGZ2Q?oc=5",
+          "ts": 1784706990000,
+          "data": "2026-07-22T07:56:30.000Z"
+        },
+        {
+          "titulo": "Brasil movimenta US$ 3,8 bi em vendas pelo e-commerce - SA+ Ecossistema de Varejo",
+          "fonte": "SA+ Ecossistema de Varejo",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ1FQd1NRR0xsNU5xM0dVd2EyMW1KVk9KZU83bWpvaUcxVW84R005ZWV6NmNBckhteGNzOTl1WEhmMXRlak9DTlo1Snc1ZEU4dFctWlkwNGJVRDIzcjZmcEhPbkV6eENjRk1JaklBcFk0UEQzTlVoYW0xMUtpNTRmUE44Z3loSS0teGFSWGdwNlhWTXZqRjBNYUdNZWJPNG5Za1hKdzQ0UnRNbEpXd3JfNlhPTUROVkJfYnlnVw?oc=5",
+          "ts": 1784648469000,
+          "data": "2026-07-21T15:41:09.000Z"
+        },
+        {
+          "titulo": "Passagem aérea sobe 0,3% em junho, enquanto preço do querosene avança 57,6%",
+          "fonte": "Mercado&Consumo",
+          "url": "https://mercadoeconsumo.com.br/20/07/2026/economia/passagem-aerea-sobe-03-em-junho-enquanto-preco-do-querosene-avanca-576/",
+          "ts": 1784576702000,
+          "data": "2026-07-20T19:45:02.000Z"
+        },
+        {
+          "titulo": "Nestlé investe R$ 540 milhões em fábrica de Araçatuba até 2028",
+          "fonte": "Mercado&Consumo",
+          "url": "https://mercadoeconsumo.com.br/20/07/2026/industria/nestle-investe-r-540-milhoes-em-fabrica-de-aracatuba-ate-2028/",
+          "ts": 1784575567000,
+          "data": "2026-07-20T19:26:07.000Z"
+        },
+        {
+          "titulo": "Justiça dos EUA suspende por 2 semanas fusão entre Paramount e Warner",
+          "fonte": "Mercado&Consumo",
+          "url": "https://mercadoeconsumo.com.br/20/07/2026/economia/justica-dos-eua-suspende-por-2-semanas-fusao-entre-paramount-e-warner/",
+          "ts": 1784575219000,
+          "data": "2026-07-20T19:20:19.000Z"
         }
       ]
     },
@@ -126,6 +128,13 @@
       "id": "beleza",
       "nome": "Beleza & Capilar",
       "itens": [
+        {
+          "titulo": "'Voluntárias da beleza' podem ganhar até R$ 10 mil para testar produtos; veja vídeo - Folha de S.Paulo",
+          "fonte": "Folha de S.Paulo",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSnY1TUNISllLc1p3Q05tWmxXTnhaTXZ3Nng3OGFWR0piYTRfR1BQckpHcWRHN2FLaUdYTzgyWXY5WVE2S1daRHVDVmJpekR3NlFDTm9Eb1B2cjZ1WHl4NmZFV0w3UVo2T29nWjRmSzUzXzRKMVBQSEV2VG5LMnd0S1doOXhEZ2Q3Y0sxVkpXMmRCNnRmN0daZW43eHJvamZBU1VoWGNPcjZueEZwYzBnNmxaUmlibVFtazdNQ3ppUEh2MmFjcGtEek1xaw?oc=5",
+          "ts": 1784995200000,
+          "data": "2026-07-25T16:00:00.000Z"
+        },
         {
           "titulo": "Mercado de unhas deve movimentar US$ 20,3 bilhões e acelerar inovação",
           "fonte": "Cosmetic Innovation",
@@ -167,13 +176,6 @@
           "url": "https://cosmeticinnovation.com.br/laneige-leva-experiencia-de-personalizacao-labial-para-a-amazon-dos-eua/",
           "ts": 1784920424000,
           "data": "2026-07-24T19:13:44.000Z"
-        },
-        {
-          "titulo": "Anvisa proíbe cosméticos irregulares; veja lista de produtos suspensos e o que fazer - BPMoney",
-          "fonte": "BPMoney",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcVNDWUZfQ05YMHFmZXdZbDBEWTJ6YWZ1OHNaRTJ3MFBlTkYwOTZXcW9uOGt6REtDU0NXYXAxOHZkZkZKSE1Wak5tZU9HelZKbjJHb1ZJWkwwVklKRkhkSnd0cG1NM1dVVUM3d3I2ZlhFV3FEME02VHNQb1VVbG5TSDIzb0I5dTZDNjZURVBBb1JsVXJwbVA4bG03WXRfV3lBWWFfY3M3R2VrOEhaLUNuOWctaDR3dw?oc=5",
-          "ts": 1784917674000,
-          "data": "2026-07-24T18:27:54.000Z"
         },
         {
           "titulo": "Snif and Ulta are betting male teenage ‘fragheads’ can become a serious retail business",
@@ -218,6 +220,13 @@
           "data": "2026-07-24T04:00:00.000Z"
         },
         {
+          "titulo": "Há quatro décadas no mercado de beleza, a Werner Coiffeur abraça a missão de proporcionar os melhores cuidados capilares - O GLOBO",
+          "fonte": "O GLOBO",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdTRveEttbHlad01xdUUwOU1KYy1Kb1lMWUtXTXhoZmhnYks0OEk3SHlIakxJc0JVY3E1VGt5ZDRFOTJEb3hVZWRsRnBzbm9uYTdxR05pYTNmRTZDR2NlNEhZc3NGd0ZRTmQ0Y29MSHBLLXVYbzIxZGNENXltbXFkMmR0bFFlOEtPSVkyX09zeTI1ay1yOXRMRlRGYUdZWXEzZjNUWFRtZEc3UjVGeUdINmdFRGR0SUVJY01iYkdzdUJPd1M1cG9uOG1STjZDU3o1N2JrRDBaTUdocTFUU0R2NUM1NlBoMFRqOFhJMTF6cDNqTGZLUGRyckZMdER1U2pfRmdv0gGSAkFVX3lxTFB2eEt4VnBNcFJvRHBYZ1JrRS1NaEEzeW5aYmtwSXFKLXdZTk1RRWxRbE9SeWhyb2NzUFhwaEJ4SEFobU5reko5LWwzenFhazFUeEg5RHlKSTZha2pEWk9uRnhFOTJpS3Q4bjhTLWxkaDFzNy1feFFiRDhFei1VblZvU3V1cnJJa0VHQXJDRGoxZnR3VV95UXFqUXpEenRKN1Q0ZWV6UVVEZkRsME83SDd3bkxGQlV3TVhJYU5FejBxMUJlVTRWeW5CeXQ4RU5tbkQ5TGNPQmFwR2dnZ3BOemRXb09NV2U5bTlkOFFRYnkwYzRYaURCT2RBczVHbzh4dkNEUFFEb2pWR3Z5Y0VBUTR4ekE?oc=5",
+          "ts": 1784827114000,
+          "data": "2026-07-23T17:18:34.000Z"
+        },
+        {
           "titulo": "Mercado de peptídeos cresce 12% ao ano e supera categorias tradicionais - Times Brasil | CNBC",
           "fonte": "Times Brasil | CNBC",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeTVVSk93R3BDS29jMmZ6VVFFTEk1enQxekR4Z3JPWjJmLUViRkVvV3ZUNmx2OU9EU044QVpYMkI0VkVFMlZ0eGhHdlY3d0c4MkNlTEJJUmJfRGZsLVF1MTdiYVFNZWJhNEN1YjYzN0hLMTVpQmo1dU9VZFB4X1M5aWFTS2JWUi15TDNMcTlnUWFBQndQN2MxQ2JmUVg3RDUxUjlr?oc=5",
@@ -230,13 +239,6 @@
           "url": "https://wwd.com/beauty-industry-news/fragrance/chanel-1957-extrait-expansion-shanghai-event-1239079970/",
           "ts": 1784822923000,
           "data": "2026-07-23T16:08:43.000Z"
-        },
-        {
-          "titulo": "Cosmética no Brasil: o desafio de transformar ciência em soluções de mercado - E-Commerce Brasil",
-          "fonte": "E-Commerce Brasil",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYWt3c0dnQ093MHlMVnRMTlozWGV1QjZ0QmRmRHUtNUlGRl8xdkthcVBZYTZabFhmOUp3aGRPNWpNOGViTUY0TjczNkNKZGtHbXpNRDhaQnFUeXpQeDhEeTRzM2tRazUyLTBuQVJXNGJMYk5iRDM5OHBVdWlucHU3UmpyLXJ0X0RWNjhfc1lvUkpXQVE0NDRpSnZpd1hoeWlGM0N5ZU5BLWxHSHdudF9ZeGVHUHpFM1haNEE?oc=5",
-          "ts": 1784818608000,
-          "data": "2026-07-23T14:56:48.000Z"
         }
       ]
     },
@@ -244,6 +246,41 @@
       "id": "investimento",
       "nome": "Investimento & Mercado",
       "itens": [
+        {
+          "titulo": "O vinho e o vento: como a soja ameaça os parreirais do Rio Grande do Sul",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/finde/o-vinho-e-o-vento-como-a-soja-ameaca-os-parreirais-do-rio-grande-do-sul/",
+          "ts": 1785007364000,
+          "data": "2026-07-25T19:22:44.000Z"
+        },
+        {
+          "titulo": "O que “Backrooms” ensina sobre a nova lógica de Hollywood",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/finde/o-que-backrooms-ensina-sobre-a-nova-logica-de-hollywood/",
+          "ts": 1785007287000,
+          "data": "2026-07-25T19:21:27.000Z"
+        },
+        {
+          "titulo": "How Rhode Expansion And Hair Care Push At e.l.f. Beauty (ELF) Has Changed Its Investment Story - simplywall.st",
+          "fonte": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeXJDek5RbENPSzVsVmlUelplZ1N4dzk0MTFPQm5OZ3htRkkyaHh4QldMWEdsMmpQVjV6NmdzZ2tDSG93YUtpTHpHdUpwcnVvbkhvbVZMUnhfd1hJY1dXRmQ2eVQ0dGRPN3p6clg5TXlfVWEteEFWdWVwaGlRS3dOU3FuUnR4X0tSdzVZUFRMS1lSSWJiUkNFaWVYMTFpaktnRjFJMTdsb0RKOXY5X2RhOE1yQUJCZVBrSTRyUmZiUDlDRW43LWY1a1FrWdIBywFBVV95cUxQeXJDek5RbENPSzVsVmlUelplZ1N4dzk0MTFPQm5OZ3htRkkyaHh4QldMWEdsMmpQVjV6NmdzZ2tDSG93YUtpTHpHdUpwcnVvbkhvbVZMUnhfd1hJY1dXRmQ2eVQ0dGRPN3p6clg5TXlfVWEteEFWdWVwaGlRS3dOU3FuUnR4X0tSdzVZUFRMS1lSSWJiUkNFaWVYMTFpaktnRjFJMTdsb0RKOXY5X2RhOE1yQUJCZVBrSTRyUmZiUDlDRW43LWY1a1FrWQ?oc=5",
+          "ts": 1785000539000,
+          "data": "2026-07-25T17:28:59.000Z"
+        },
+        {
+          "titulo": "Tulha, o queijo caipira que conquistou a alta gastronomia",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/finde/tulha-o-queijo-caipira-que-conquistou-a-alta-gastronomia/",
+          "ts": 1784976990000,
+          "data": "2026-07-25T10:56:30.000Z"
+        },
+        {
+          "titulo": "MEMÓRIA: Barretão, o produtor que fez do cinema “uma coisa útil”",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/insiders/memoria-barretao-o-produtor-que-fez-do-cinema-uma-coisa-util/",
+          "ts": 1784976675000,
+          "data": "2026-07-25T10:51:15.000Z"
+        },
         {
           "titulo": "Cosméticos impulsionam intenção de compras on-line - Panorama Farmacêutico",
           "fonte": "Panorama Farmacêutico",
@@ -266,20 +303,6 @@
           "data": "2026-07-24T20:22:56.000Z"
         },
         {
-          "titulo": "Especialista destaca a importância do atendimento humanizado e da capacitação no mercado da beleza - Folha BV",
-          "fonte": "Folha BV",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbE9PLUkwaXRGbl8xR3NmTVFPTG9iMEhQcDJZMUs0WWRIb0JTSFowTVdqc2VweU1nVVVHQV85NF9FNTNaRGRTbUxlTVdVSkM0TjcyNjUyd0VEbG5wZ2VRQ0hIN0hMbDV2Z0JLNGFyWW5oN1FVdktCN0w0MTFnTXRsZ0NsRnA4TDV1X2JnWTVmVDc5b3RyNEpSdG5pa1NNOG1SSHFwdjk2U3FRVjZpNlREODVxelcxZTNjZ0I4V0dGT0lEdFBLYWIwdlRxME9oRmZhWWdF?oc=5",
-          "ts": 1784919065000,
-          "data": "2026-07-24T18:51:05.000Z"
-        },
-        {
-          "titulo": "Durigan fala em “milha final” da agenda econômica; Galípolo vê antídoto para armadilha de juros altos",
-          "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/economia/durigan-fala-em-milha-final-da-agenda-economica-galipolo-ve-antidoto-para-armadilha-de-juros-altos/",
-          "ts": 1784912905000,
-          "data": "2026-07-24T17:08:25.000Z"
-        },
-        {
           "titulo": "Dia do autocuidado, entenda como transformar a rotina de beleza em um ritual - Tribuna da Bahia",
           "fonte": "Tribuna da Bahia",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNazk0T3d6a0FIMWFWVkZoY3psdjFzVjNJOXYxa3luQkQyYjNaRGxDZTR2Tzd4aFNVS05wanJVUjIwNFlTUFdOYUVaYk1QS0JNdGliS1kwdVFqZi1laVBZMVotWWZVN3ZObEdqZzZoUHhZVmZNR2pjcUp5ZHdvRXhselpNbDJ4aktzdk5SYVk0TDdFdXZjQjEwdWhTTTh3QnU5b0FWWXFKN2x3MjRiVG1XUFNtUEpmdw?oc=5",
@@ -287,29 +310,8 @@
           "data": "2026-07-24T16:05:00.000Z"
         },
         {
-          "titulo": "Mercado espera Orçamento de 2027 de olho no “PT raiz”",
-          "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/experts/mercado-espera-orcamento-de-2027-de-olho-no-pt-raiz/",
-          "ts": 1784906809000,
-          "data": "2026-07-24T15:26:49.000Z"
-        },
-        {
-          "titulo": "O “divórcio do século”: bilionário dos chips terá de pagar US$ 645 milhões (em dinheiro) à ex-esposa",
-          "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/insiders/o-divorcio-do-seculo-bilionario-dos-chips-tera-de-pagar-us-645-milhoes-em-dinheiro-a-ex-esposa/",
-          "ts": 1784906730000,
-          "data": "2026-07-24T15:25:30.000Z"
-        },
-        {
-          "titulo": "Em 18 meses, Blue3 salta R$ 22 bilhões e chega a R$ 52 bilhões sob custódia",
-          "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/wealth-management/em-18-meses-blue3-salta-r-22-bilhoes-e-chega-a-r-52-bilhoes-sob-custodia/",
-          "ts": 1784903763000,
-          "data": "2026-07-24T14:36:03.000Z"
-        },
-        {
-          "titulo": "Testamos: os lançamentos de beleza que valem o investimento em skincare, maquiagem, corpo e cabelo - Globo",
-          "fonte": "Globo",
+          "titulo": "Testamos: os lançamentos de beleza que valem o investimento em skincare, maquiagem, corpo e cabelo - Globo.com",
+          "fonte": "Globo.com",
           "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRlNqNGNGSlBuQ19fZm50NUZjcGJCSDBoZDlId2NWdU1hVjllb1d4YlRPcXI1VjB0UDUwd0w5N2JqRWNtckwxVkxMSTRhUFRwc01CQ25pWWIyMlk3cHduczN3bEZmZ1RhR0hnZEhhYkFIZlRmVG40Wnd0eUZPMjRhVkJqMUN6VkNBZlF2VzZOX0czYkRxb2Y1X2J4TWR0RVh1dkU5X3pvQUQ4TFVBUnVlZzJzcVRnSGtQNkNIX0w3Z2pScm5UVHRERGtoSHJpNGpqX1E5NGpYSWxVTkgyT25vRGpYOERkVXhZX1dtZHNmZUh2ek3SAYICQVVfeXFMUEozdmFwYlRlSXU4TEpPd09fckswZTZWRFBXOVpwOGY1VDhzOTBRNll1VXpYVVFjOUsySXdjc2FOUVFYeFVrVl9mTFR4YlN4SUZwSXJYVzRMMHk0WUlDTnF5ZkdVSDNPbGNqTkdvSnJvMlVITzRXRHNDYXlsLWF0TGUtdUFHQ2prY0k3aVFmbGNFb1ZDWlJ1OE9WRHpCTmc2V0hDdmNhdk44QlYwS1Z6X2RfU2xRc1E3bUEyLTdZVXE5eGlvdkdCdjRaMFZYUVBPakZiSVNyYW5KQUlIYlJFc29pcmNZeHZId3RnLXVLNndvV2VuLXl0enFMUnJRTEllTy1R?oc=5",
           "ts": 1784880414000,
           "data": "2026-07-24T08:06:54.000Z"
@@ -350,11 +352,11 @@
           "data": "2026-07-23T07:00:00.000Z"
         },
         {
-          "titulo": "Lauder Scientist Joins Skin Ed Forum; Investment Firms Bolster Beauty Leadership With Key Hires - insights.citeline.com",
-          "fonte": "insights.citeline.com",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQUVM0Nkx1aDVfLVZYak1DeTZsU3FSa0NyV3c3TGcwazdMenJjeDBVeEstZFo5Nm55YlNnLVppYlBTZDc0TGRqQjU3SHp1elNiR2lnTGhQX0NRWl9wUjQwMFpmaXZDcm83d2FWUDc1MllQNVVZN3JWTGhSTnZBTnNnRnRQckVOSGtucnV3MEs3b21SdGswTU9GVDNLdExWdWVpS05ma3ZXbVNUd2NsclpQOURXcVdNbGtSRVVGNi1pNnZEWF8xY0lyd3dCX2dmV2o1S1M1ZXl5NldnbnNfYVNneU1SLTBGbjJGVWpSSG82UDNyOGVXeE1MWnNvWTMxMHdqVFpjZVBQS1FYcEgtNVVLSURVMTBtNUpK?oc=5",
-          "ts": 1784765680000,
-          "data": "2026-07-23T00:14:40.000Z"
+          "titulo": "Consumidor troca impulso por pesquisa antes de adquirir produtos e serviços - InfoMoney",
+          "fonte": "InfoMoney",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTHl3azFvRmRyOXZtX1NDTGVnaHdJRjVJUVd3azh5bm54Q3dJQlBNSXctVlZIN1pCMDNrQ2tPcGlBNnZvUDJpWDRaWFFqYloyVGpXd1NjRFo4amFHNkJyRG1jZFVSSjZTRzBiZUlzaHpMcnZfR1BDVGRmZndZek1Za0RKUXlMa09UWFZUZkN6bHFTUlVqWjByMzZEeHN6RnRhVEN4YmJMWTlBSkNWbXpsMjliZ3RMU0FsdFowMndn0gHDAUFVX3lxTE13OEcycXFXbXVEQ0F2d2t4c05qbjZ2U1BoejFmQ216WHE1ZnR4S25Fdk1sdmdZbXlHTk5Qc0t2cDNESGlyaGtFNGZmWHFlTHFsZkZ5TnB0ZEZQa0Y5RTVONC1ubzFTMUdIVlBzYUZEVDBRUjR5LVhBRGdISTBqVS00SVc5d01ZSWFRVjFxVmJZT01LSjVEWTRTalEwRDh1ZzhEYlR1b3dUdnpYZHVfQzFfWnk3V3RZZkVWY3U2bHVTWnphWQ?oc=5",
+          "ts": 1784716200000,
+          "data": "2026-07-22T10:30:00.000Z"
         }
       ]
     },
@@ -405,6 +407,13 @@
           "data": "2026-07-23T13:56:15.000Z"
         },
         {
+          "titulo": "Siimp Sistemas lança módulo para integrar operações de exportação em plataforma única - Tecnologística",
+          "fonte": "Tecnologística",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWjdhRDhlTEpMVkJlMzZjQ0czRnB4Z0RMRGNVbTEzeVZTOUNuSTNJTWIxNDYyd0JPYnVCcXRkN2NWczZvZ3Jxa2otWVk2czhtOU5YT2ZCMWp6SGZsUUhpaEVzT2haQkcwaVVhaDU5YndfdzFSYUp6T2x4YVFUNExNd3JHUE5OSHhKT3YwMjlQTXF3NWJJeTFWUTNaZ2NOcGtycHJ4Q000RUVrUVBtOUxfZXRQblJBWWl0QjIyZWVMMnNLWmNXcndIRjJwdWlSYi1EUXp3UUhpUlJhek1wb3RVYkxhLU5DU3Njc2pqUXQ0NzF0SlE?oc=5",
+          "ts": 1784811631000,
+          "data": "2026-07-23T13:00:31.000Z"
+        },
+        {
           "titulo": "naPorta estreia no Fórum E-Commerce Brasil 2026 com stand próprio - Business Moment",
           "fonte": "Business Moment",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEJueG4ybWRKdVNsS25zUG5XNHI2Y1ptWHdwd0tkRFk4SWExWFRhc05iU2txRmZ4bkczSk5VUnEzRnV4TEpGYW5GREJ2YkNEWTRrZHFwVWp0eXRRVmQzMXBNMFpaUmx4S1R3YVZuTmg3MEEzQzY2NmZhMkY3eTloREpIc2RqUXk2N2QwN2t6S1RKMFE5SHZPaHpJWDnSAaQBQVVfeXFMTjBCeGxucEZxN0Yxb2ZlZ2tuN0ticjB2TWdpT1hNRGpYVWxJaXdrUUp3eVN0SzJKc2dEVTBUcmh6YjZhb01LRjExbm5acjFPR29aQU1va21SLWx2WE5FR3BRLXVwdFFZTzhoSWRKa1U0WWY0NUNIRllaV2ZucEJtVDJuZ1E4RGVSdWFwZk5wUVFkUUs1WVBzSXhmWElJY29OYnRZQjM?oc=5",
@@ -433,18 +442,11 @@
           "data": "2026-07-13T18:29:35.000Z"
         },
         {
-          "titulo": "Ypê, Carrefour, Amazon e mais: confira as vagas de emprego no setor de logística, nesta sexta (26) - Tecnologística",
+          "titulo": "Agenda de Eventos - Tecnologística",
           "fonte": "Tecnologística",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcUZSd3hBTGd3M3hGT2NsVXpPU1FzUzZ3N3lhU3U2VDBSNnB5WURrTUpJNW1mWE5pQnIzVjlpanV3UFlxVHB4YXVvMFhjRHJjeVlmWnJPZy03azBjMmdYNmh0V1psSi1XTHNubjl0RXMwNW0zSXFoMlU2VjNVT0VHNjAxeHNKSUNxMkxKTEtWeUoxM2IxbUVqS3ZvYVlidE0zenRlZVZZRXRGXzd5QVo2S3J0OTRVM01aZlJVckdEaDItdy1PVXJjcExqUlV1d1hFSkxxdGFJUnMtUFNlWE9xdDNMbmtfSjJ1NHc?oc=5",
-          "ts": 1782457200000,
-          "data": "2026-06-26T07:00:00.000Z"
-        },
-        {
-          "titulo": "Notícias - Tecnologística",
-          "fonte": "Tecnologística",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mUHRkYUlzZW5iRmktUkdJeXFBLTg2M21NSlBtQkhzYUQ0N2xaalY5V0hVTUVlMklwaE1hUmtsenAwd0wyVzVYSnBzbFVULXBwQ0Z5emdR?oc=5",
-          "ts": 1681904192000,
-          "data": "2023-04-19T11:36:32.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zU2MtdjNLaUlLcVBXRVZab1BSVy11enhtUFY3QW5UUFBwQ1ZwVnJDVDVDRmF3UGl3UC1Cb0ZNNW9YRW5vMDJmckdDZEpUMUJsaUVr?oc=5",
+          "ts": 1681904191000,
+          "data": "2023-04-19T11:36:31.000Z"
         }
       ]
     },
@@ -452,13 +454,6 @@
       "id": "concorrentes",
       "nome": "Concorrentes (lançamentos)",
       "itens": [
-        {
-          "titulo": "Valentina busca alternativas de venda de produtos secundários - Times Brasil | CNBC",
-          "fonte": "Times Brasil | CNBC",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOUlYZUFCZVV2S0V0R0NpQ2VrVW8wS2pOV3F3czc2c2JVSUV5dk5iMHVkcDRab1BodWVKZkx2MTBoWllXVlRLajNVWUFIeDhXWUIycHlncW5adl94emFYTUZ3Y0Q0allIMFg1eEZyWkVtTk9FME1fOUhlU3EwWk5vZlVuWGlJYlk3ckxzWU9RdXZwUzY3ZVNwZkFhRmRIdGl4NXBtSkZ3VVFwcThIaDBVcU04VWJtdFZod21VWmJkb1Fnbnd3Z2pvNnR5ZnJDT0NhRmtZUmxaaGhDbkFTVDdvc3ltRl8?oc=5",
-          "ts": 1784911200000,
-          "data": "2026-07-24T16:40:00.000Z"
-        },
         {
           "titulo": "Symrise quer adquirir Floral Concept para reforçar sua divisão de perfumaria - Brazil Beauty News",
           "fonte": "Brazil Beauty News",
@@ -486,6 +481,13 @@
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUVJ4dFAyY1BpU2otODJrMDB4dkxhNzR1bDJSdDh4T0w2blJCS00xVTllQzdwWHROMHJZYm9JZUxOYzUxb3NiQWlPVDV5cVpoZXp1OExCSE9ZMmJjTGgwUVYyMWxuSXRlVVRTWFNwdjRuNERHTHNiZExQdXY3cFV1c293ZUduTldEb09pRWpqT1N2SmI1Tnc?oc=5",
           "ts": 1784566801000,
           "data": "2026-07-20T17:00:01.000Z"
+        },
+        {
+          "titulo": "Os novos perfumes para cabelo da Dolce&Gabbana prometem deixar os fios cheirosos (e mais brilhantes e suaves) - SAPO",
+          "fonte": "SAPO",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbTVrT2tDVWZTdjN0TWYwcmhSRnR0VFYzX2dqald2MmdrbjUtNWJENFZyV004MkxvMWQ4TGtmdnN3Z01STG5JZDV4dC1BOXNoOTltSnRaM2F5UFA3YTlXTGo1RXNVVU9NNjBVSml6ZU40SnFRelVrWDVtVUVfYkUydG81SnBrU1l4endJdjB1bFMyTXpWY0N2Vk9qVlprQ3QxcF94Ynd6OGpGaVgwTG4wOUJ2SnhZdU5NQXQ2Z2VfU1dQQlZhZlpPZzFLR1RzOWtGblV5ZGRwUVcwRGhoNGs0Zk1Raw?oc=5",
+          "ts": 1784480400000,
+          "data": "2026-07-19T17:00:00.000Z"
         },
         {
           "titulo": "Simple B e Chupa Chups se unem em linha de produtos capilares - GKPB - Geek Publicitário",
