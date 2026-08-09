@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-08T08:26:22.543Z",
+  "gerado_em": "2026-08-09T08:28:57.777Z",
   "total_materias": 82,
   "fontes_ok": 17,
   "fontes_falha": [
@@ -30,13 +30,6 @@
           "url": "https://www.modernretail.co/marketing/tarte-faces-backlash-for-snatch-sticks-marketing-mirroring-plastic-surgery/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
           "ts": 1786139917000,
           "data": "2026-08-07T21:58:37.000Z"
-        },
-        {
-          "titulo": "Artigos e notícias mais recentes de Rafael Pacheco - E-Commerce Brasil",
-          "fonte": "E-Commerce Brasil",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xeDZpZmZXT2FtZzd6VEhDeTFHc2E3NjVhV3FtUzlJa1VTemdnaFAwM2FkYV9kMVlEckp5T0hQd0FQbDNzamw1LWRCbmVnLW5STlVjRlp3aW1rcmZSdHRtNUhn?oc=5",
-          "ts": 1786115093000,
-          "data": "2026-08-07T15:04:53.000Z"
         },
         {
           "titulo": "O preço não pertence ao produto, pertence ao canal - E-Commerce Brasil",
@@ -88,6 +81,13 @@
           "data": "2026-08-05T15:23:23.000Z"
         },
         {
+          "titulo": "Varejo se prepara para redesenhar operações e checkout com agentic commerce - E-Commerce Brasil",
+          "fonte": "E-Commerce Brasil",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZzVzWUhfZG1la2lpalQybWVDMnVpV2hLOGtFMGR4MklEbGpuN3NUMWh6dDh6ZExCeEthSzJJUTliU3JFTGZDNEV6YW1uRVNmaHoyWVRsb3QxTXpuZEp0SEdvdkVlYm5xZzNVYjFKWDhPUVVCbi1yaVVLQzgzTEFfOWlRSFMtTmFhTGtwMzlPSDJFa2tjZjhCbGQ0VmlZbC1UZmZIMzc5RHBaMFlHSlZFUmJFVWgxMFY2am9J?oc=5",
+          "ts": 1785936203000,
+          "data": "2026-08-05T13:23:23.000Z"
+        },
+        {
           "titulo": "Marketplaces usam tecnologia, conteúdo e experiência para fazer crescer o e-commerce - E-Commerce Brasil",
           "fonte": "E-Commerce Brasil",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOHgwc0hyT3lJWEsza2o1dHFRSVBfb3pXR1ZjTkFPYnFLVzUxazZpVnlWSlNlYUxoVG1JZ200clcwVmYtSkxqQWhiY2R3MUdwa3U4U1dINXk4aU9wLVRTbDhtTVBYRHVlZ0tOeVBIM2hSNXRYdmYxbHRjRXZHRVUxd2dSeWtzUjByNVppekFpZ0FxWElYZXBqblZjZ0lxUGpBN1BZVjdjN09McjZENWw5NGxFVmVobTVZOFZhVG9jZ0VGMnk4VUE?oc=5",
@@ -128,6 +128,13 @@
       "id": "beleza",
       "nome": "Beleza & Capilar",
       "itens": [
+        {
+          "titulo": "O luxo acessível impulsiona o mercado - Jornal DR1",
+          "fonte": "Jornal DR1",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qNjBVUDJ5LVFpdV9tQkRBYUJocllUOHRfMEZwbS03a2FBdTRLdktGSG5IaW11MGJZYVZod29CRUU4TnNrWC0tN2xyUXFpZ2JTV3JwMG9hc3BIVlhIeUxTUjlFcHQ0dU5TeTZJbkJxb00?oc=5",
+          "ts": 1786194000000,
+          "data": "2026-08-08T13:00:00.000Z"
+        },
         {
           "titulo": "O canal não explica sozinho a decisão",
           "fonte": "Cosmetic Innovation",
@@ -227,13 +234,6 @@
           "data": "2026-08-06T20:00:00.000Z"
         },
         {
-          "titulo": "Autocuidado fortalece mercado de beleza, mas couro cabeludo é negligenciado - Estado de Minas",
-          "fonte": "Estado de Minas",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMmFvSTcxR2QyM1FQY2p5ek1Cc1dmb1dJVmhOblRQUjFzMnFjQTV4aW5qeVI4NV9xV3Z3dURLTVpvTE0zc1Q4eW9tYTlqTkswektIRzh3TjUzYVBWbDB3VDJqemJuZnB3amNYZlIwMzRKeERYeGF5b0lfZE13ZHFhSTVlWnRSaEo2VlBXZXRqR0hieG4za0NFbmNSWllIUUl4UEZHTnYyMXliUVBDa2dLd2dXS0xWRnRaalV2ckpvaDg1WENjYlHSAcsBQVVfeXFMUHNVSUV3LUozRTNoMkJqX0xnUGNyQkRGWkxYemRPQXNIVHdlQl9xcHBMVG1wRFpqSFF3enhXSjBib3dSSjdOdUozY0Z4dW0yZkhUYWpUQmhkWkVDdno3MTlmZ2xzaWo2TjZBVmZwRWd2dEZYcDBUMWFJbnZtMXF2X1k2TEpWWFJ0T2Nna0tZalJEZXM5T1VNSWpLOHNPajRNUXhWMXpPSE1SeUpHcy1uOFlTTUl5WEdudTVqYTByNmM3WVEwY1dKWkUwUFE?oc=5",
-          "ts": 1786043580000,
-          "data": "2026-08-06T19:13:00.000Z"
-        },
-        {
           "titulo": "Partners Group in Exclusive Talks for Aroma-Zone",
           "fonte": "WWD Beauty",
           "url": "https://wwd.com/beauty-industry-news/beauty-features/partners-group-exclusive-talks-aroma-zone-1239096170/",
@@ -246,6 +246,27 @@
       "id": "investimento",
       "nome": "Investimento & Mercado",
       "itens": [
+        {
+          "titulo": "Novelas em ritmo do TikTok: microdramas, microtransações e um possível macroproblema?",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/finde/novelas-em-ritmo-do-tiktok-microdramas-microtransacoes-e-um-possivel-macroproblema/",
+          "ts": 1786193624000,
+          "data": "2026-08-08T12:53:44.000Z"
+        },
+        {
+          "titulo": "Por que a indústria do cinema ainda tenta copiar a receita de “Akira” quase 40 anos depois",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/finde/por-que-a-industria-do-cinema-ainda-tenta-copiar-a-receita-de-akira-quase-40-anos-depois/",
+          "ts": 1786193425000,
+          "data": "2026-08-08T12:50:25.000Z"
+        },
+        {
+          "titulo": "Ningxia quer aposentar o título de “Bordeaux da China” e revelar seu próprio terroir",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/finde/ningxia-quer-aposentar-o-titulo-de-bordeaux-da-china-e-revelar-seu-proprio-terroir/",
+          "ts": 1786193266000,
+          "data": "2026-08-08T12:47:46.000Z"
+        },
         {
           "titulo": "Custos do setor elétrico ameaçam “apagar” corrida para o mercado livre de energia",
           "fonte": "NeoFeed",
@@ -268,29 +289,8 @@
           "data": "2026-08-07T19:19:38.000Z"
         },
         {
-          "titulo": "Petrobras entrega lucro histórico, mas freia expectativas por dividendos extraordinários",
-          "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/negocios/petrobras-entrega-lucro-historico-mas-freia-expectativas-por-dividendos-extraordinarios/",
-          "ts": 1786126255000,
-          "data": "2026-08-07T18:10:55.000Z"
-        },
-        {
-          "titulo": "A maratona para zerar a fila de 87 vetos e 32 MPs antes que a eleição paralise Brasília",
-          "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/experts/a-maratona-para-zerar-a-fila-de-87-vetos-e-32-mps-antes-que-a-eleicao-paralise-brasilia/",
-          "ts": 1786113038000,
-          "data": "2026-08-07T14:30:38.000Z"
-        },
-        {
-          "titulo": "MRV vende último projeto legado da Resia por US$ 170 milhões",
-          "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/negocios/mrv-vende-ultimo-projeto-legado-da-resia-por-us-170-milhoes/",
-          "ts": 1786105081000,
-          "data": "2026-08-07T12:18:01.000Z"
-        },
-        {
-          "titulo": "5 Rising Black-Owned Beauty Brands to Know - vogue.com",
-          "fonte": "vogue.com",
+          "titulo": "5 Rising Black-Owned Beauty Brands to Know - Vogue",
+          "fonte": "Vogue",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uM2hVeVZtaE9ReF9iMEE5R3VuZ2QzNVRiTWgtUFJ3SjQwWjFRLTJydS05X1VhckxHZkFtbVdtb0tVb2p1Rkc4aGFGeklLX3FqWVg2cDE1UUlQaW9oRlVRa0k4aXVMcWFOcVEzbmxoZExqYWhGZktqMjUzMzA?oc=5",
           "ts": 1786095000000,
           "data": "2026-08-07T09:30:00.000Z"
@@ -303,8 +303,8 @@
           "data": "2026-08-07T02:19:37.000Z"
         },
         {
-          "titulo": "e.l.f. Beauty Credits rhode Acquisition for Strong Q1 FY2027 Growth - BeautyMatter",
-          "fonte": "BeautyMatter",
+          "titulo": "e.l.f. Beauty Credits rhode Acquisition for Strong Q1 FY2027 Growth - beautymatter.com",
+          "fonte": "beautymatter.com",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSjRqajhuTlU5d3NaMURZTjdMbFZrclVGT2oxZm9IVmdJS1VXdEVpU28wUzVBWVVrclktX28tSk84WkdNTU9XRGtwVGZmLXkycUhiR1hGSDczMzR0VzFSeU4wTjZkbUY1ZzdhbXhPa1F4YVQ4Tnhlc1BnT0dPMFRkMmR0ak8tV1FV?oc=5",
           "ts": 1786040560000,
           "data": "2026-08-06T18:22:40.000Z"
@@ -324,6 +324,13 @@
           "data": "2026-08-05T20:22:02.000Z"
         },
         {
+          "titulo": "Pelo segundo ano consecutivo, Natura é a empresa mais inovadora do setor de Cosméticos no Prêmio Valor Inovação Brasil - Tribuna da Bahia",
+          "fonte": "Tribuna da Bahia",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUi1SWjJXUnkxcm1uVThscGExd2YybnhNeHRjV2lrQTNJSFBQSlJETmdwa3Z6Y18tTDd3R2U1YkVidWJfQXVjY3FNbVMwTTd2cWxOaEZDZHFaMDhWTi1waktlZmY0MXF3TXljdGdUZWQ3LTNnN1lGdnNFN0h4aloxWHpHLUlwTVY2V0dUbHg3ZUxGTVR2dE1aYUNZTGdfQnZWOWt4Wm9JaHlmOWEzeWxmWXE5aFpRS3JDNHpkMzdleDZVbHpHck9ncFRRU3hWUldReklXMzBlNkZoQWdsVjV2Y1V6TjU0Zk9UYjdEUGFn?oc=5",
+          "ts": 1785871800000,
+          "data": "2026-08-04T19:30:00.000Z"
+        },
+        {
           "titulo": "Criada por nutricionista, Booma projeta faturar R$ 50 milhões com cosméticos naturais para bebês - VEJA",
           "fonte": "VEJA",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWHY3bGlhTEQwcDhYLUNHNGZZcmV0ZlBlM0ttbndfREtlTUdOUzZ3d25hbDJ4d1hHOEJ4LVMza3JkS19DQjBZUFBBX0NZZVZfLXRDTWFhQUQ5c05TaE9BM08wcmRnR0h4LTBKWG9RUTlYU1AxRU4xOExrN1QwUmtHX2lGbHR6RHoycmxZMXliN1Y5QkhvRlFQenFpaG9xNTZXR3lWVGJFQkhISjFMV0szQW5DX0ZQbG90bzhaM0ZVVXRqeE5feXdRcDV3?oc=5",
@@ -331,14 +338,7 @@
           "data": "2026-08-04T17:41:23.000Z"
         },
         {
-          "titulo": "JBS, dos irmãos Batista, pode estar mirando um ouro escondido na casca do ovo, segundo um consultor do setor, uma película que concentra colágeno e ácido hialurônico e abastece a indústria bilionária de cosméticos, depois do investimento de R$ 920 mi - CPG Click Petróleo e Gás",
-          "fonte": "CPG Click Petróleo e Gás",
-          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOQm5CMzdRZlVPQlJIekpIckVMcDdOa0NxdVlLLXlCYmlweUNiMWJnM0RXeUlyRXY1Yng5WWQ0d2c3TzdnSWt2WWk5aVdqaDgxd20yUzFDYVVfRi1rdmZfY1VlRTlULXZVRXFoczlQNk5vRlRBQmljUGl0aENSRUZvOG9Qbm9YdnhEeUw3Sm5WZTBqcm16VlBGTzd6anRES3VVNllDaW1jaDQ3SDBrUzc2eU9MR0dMMWU2TjhlVzV4SERoTFBOMWkxY0NPblNodmRKOVNyaFB5UVdRUkpRblFzckZxQlZNRWZYQl9GaHlWZmV2WXFaNzhrYzlSX2k4RUc0T3NkUlROYXF4WHpvZ3NZRDhjSU5ieGY0RlgxSlc0bl9GVzZIdFQwc0xsSm9qY0xIbkFJbGs0MnY3ZWJOdUhSRTYxNFNfa1U?oc=5",
-          "ts": 1785848400000,
-          "data": "2026-08-04T13:00:00.000Z"
-        },
-        {
-          "titulo": "Vietnam’s Beauty and Personal Care Market in 2026: Growth Trends and Market Entry Opportunities - vietnam-briefing.com",
+          "titulo": "Strategic Entry to Vietnam’s Beauty and Personal Care Sector - vietnam-briefing.com",
           "fonte": "vietnam-briefing.com",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSmJaX1FGNm94UXQzckdXUC1PYm9kWldocExRdzBBRWxyZVV4RnE2SlRwVnRWbjEyZVNmcGd6MjNzSndPOG1qaGRZYlZEaG40UzIwNnpTY3FGMFpESTNnWkhPQmZ5R1NDTjJwU3BpMWhCdGlLWk92TDZkd2Q1SEtzZWJ6bmNnUklDOXozLVBodVRGemhGaW5B?oc=5",
           "ts": 1785826800000,
@@ -400,6 +400,13 @@
           "data": "2026-08-04T18:22:39.000Z"
         },
         {
+          "titulo": "Tem ônibus saindo da fábrica direto para a estrada - Portal ABC do ABC",
+          "fonte": "Portal ABC do ABC",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWTRUUzRiLVA5UEdmYV94U3ZFb1JCaHpCNlZUeS1FVm1OakpReWMxUG1yVkM0azVfVHJFUXRBTHZhZ1BFZzlZSlRUMUdyRGNHdzJuSWUxMFk0ZzBEYnpnQUtoaGdvQTI2QUZmNTBqYVJPcUNreU5FY3F2Q3V3aWpKVw?oc=5",
+          "ts": 1785859800000,
+          "data": "2026-08-04T16:10:00.000Z"
+        },
+        {
           "titulo": "Corredor verde Pecém-Rotterdam-Duisburg e seus 3 Mosqueteiros: uma parceria que pode mudar o papel dos portos na transição energética - Tecnologística",
           "fonte": "Tecnologística",
           "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNWEE5aTVwWFhFSlRMYVV0YjhlZ2tEZ3BmTGFIT0pjcHlJZTlRZVEtb29xZFBSQjFTTTlMZFJoU0lUSGlmQUtVckxPMHVfU3RTdi14OWQtbTU3eFN6bF9jY2JTamlUenpURzlpY3BmMHB3b3VwV2FSbThsTEZQbUZMQkVIY1ZQWWdyMzNLbEdiM1VyRTVvak1XbHpOUlBhVEI4SlpkbjE0TUxoM195X3ZVTENpcE5qdFVMTl9hbElsZVpHX1FxSThaNTFzV2F1SGJweGRTT0VyREpLaDVIeC13b3RXT0xoR0VWUDJPV0wwNnJacjQwS2RKbG5XSmVWd1V1M2xJblFsaWp2Y016UWQyQ0FndGtaX20zUVNzUzF3?oc=5",
@@ -419,13 +426,6 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZlhzRnlOaEx4QmNFY1hzVjM3VDFYWkhjOVZDdlRWX3hhcnRTUWN0dnBqRDI0SzMtVE5pcXA1ZmVNOEdIaXFOWXByYktuZEFTTkFWZ2ZLT0dtOGtHZ0lTeF9zY0Jjcm1xSVgycmxTOFRocFQwc2RWUFR4M0J3TV9tT2dpOXdyczZZbC1IdnV5ZTNjaDdIZTRrTzltSnB1UFd4by1BY19PR1NXRUFpOWRqeE5Lalk?oc=5",
           "ts": 1785779173000,
           "data": "2026-08-03T17:46:13.000Z"
-        },
-        {
-          "titulo": "Fenatran 2026 apresenta tecnologias para logística urbana e cargas - Balcão Automotivo",
-          "fonte": "Balcão Automotivo",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLTFyN1Rqb2xSNG4zNW9pUXJIYmMxQWk5SnlvUHR4dFdTS2dpR0tsZkxWaHlrWFZsTTRHVG5MOTBFd2dhUUpuNWJhVU5BSWdKUk5FNldpYVRZOUE1MWhOSnFzUjE5MFZ5R1BIVzM0ZGNBcWVMWVhRc000NlNwOGx1cXlqVlVZVlB6TXFwVWJvUFM3amJSaVdSNV93RWZGU1k0VUN1dG1YY3k5MjAwalRydA?oc=5",
-          "ts": 1785767904000,
-          "data": "2026-08-03T14:38:24.000Z"
         },
         {
           "titulo": "Last Mile: o custo da sua compra que chega em 24 horas - InfoMoney",
@@ -455,6 +455,13 @@
       "nome": "Concorrentes (lançamentos)",
       "itens": [
         {
+          "titulo": "Entrevista | 'Vanessa esfrega sua branquitude': Alinne Moraes volta como vilã cruel em 'Por Você' e promete colocar o racismo em debate após 5 anos longe das novelas - purepeople.com.br",
+          "fonte": "purepeople.com.br",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNaHZNbE1rNk1XZXI5bFU1NDBJaG5IaENkSi15RVFNRnRTU1k3WWJqSkZaRDhvM0d0VVRPU1ZsU3lvTHRnckRsZFdzeGRna0FwbUdOM0ZQYzZmQVRwV0IxMU1VQ212eml2ZVRDSlVDNlA3bHUxQ2tYQmFwNXI0Z1BhSU1xdzlCVjFnT3djM1VZZy05akU5QTZwWXRCWTdDMEtEcUQ1dmZHNm5zNmJkMzhlY3ZRQjQ1a2ZVTG9nNVJ4c3V1cnFIQVNLMjMyalV3ZFl0ekNTRnpFaEhtX1htdmMzOHBOamJnWGIwR0UwRnRiME9fTzBjYmZ0X2VQRmY0MGFmOGN3M1prMVZMbWNlLVc3eTBDdU9pQVHSAZcCQVVfeXFMTWh2TWxNazZNV2VyOWxVNTQwSWhuSGhDZEoteUVRTUZ0U1NZN1liakpGWkQ4bzNHdFVUT1NWbFN5b0x0Z3JEbGRXc3hkZ2tBcG1HTjNGUGM2ZkFUcFdCMTFNVUNtdnppdmVUQ0pVQzZQN2x1MUNrWEJhcDVyNGdQYUlNcXc5QlYxZ093YzNVWWctOWpFOUE2cFl0Qlk3QzBLRHFENXZmRzZuczZiZDM4ZWN2UUI0NWtmVUxvZzVSeHN1dXJxSEFTSzIzMmpVd2RZdHpDU0Z6RWhIbV9YbXZjMzhwTmpiZ1hiMEdFMEZ0YjBPX08wY2JmdF9lUEZmNDBhZjhjdzNaazFWTG1jZS1XN3kwQ3VPaUFR?oc=5",
+          "ts": 1786190580000,
+          "data": "2026-08-08T12:03:00.000Z"
+        },
+        {
           "titulo": "Marcos e Tchello apresentam secador supersônico Eulux na Beauty Esthetic Show e prometem revolucionar o mercado brasileiro - Ultima Hora Online",
           "fonte": "Ultima Hora Online",
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWk5aUXNpaEE1Mk44MVo4OVR0eDZ4RGt3T2VJdE9iWGF1NXhGSmJGcFZHd29uMFptWHFDeThNajNnd0tlR0hXOGVfbExXTXdDd1JjZW1ZamgyYWVwY1FTRWZlbm0xVGlsZ0VQbGRydmVQVm42dm1nUHN0cU1CcGFsNnNMNUp2NlZCblBfdHcyWTBDaFhydGF3Z2pDSUJaTV8talp1NzVWQU1RMU5qSkZzWnhBNTdPd1NEZm9CNVljaHg1LTB6SkpORjJOUnpPSHh3bDhaNG1HcDhRQmJTUGNnOE0zc1BoS05xNzl0Wi04U2xhcXNlc0N2dGVR?oc=5",
@@ -476,6 +483,13 @@
           "data": "2026-08-06T16:22:00.000Z"
         },
         {
+          "titulo": "Seda lança linha com seis produtos focados no crescimento capilar - João Bidu",
+          "fonte": "João Bidu",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdVRHZVFfRWs3V25SbDhjdEk1OTcxaEtpcEIxcTVGbjRoZWk1OTF0TmRaUXN4SzVHQVlSTHhHM2YyUDVSbE13bFZrTzJubGQ3d09kRUVxb19FazRXT1JmZDNVMmJRRWk1LXRUU1gyZXVDZjVmbUxGMWNYWTE2clRGY0UzR284bHp0MzJVX3I5dVg4ZHBfX3ZpVnJKcUhWRHA5Wll2MEFmUmpLTFdNalhUYy1EY9IBuAFBVV95cUxQNUFZVEpUb0Y1UzVHZTJBUG1MSU82V2RvZW5faHhQMUo2LXdHeENmdG5VeHhucE9Sc0Q3eVl6YkEzWXltc2JoV010WEp6ZWl5VVNpZmF4MWtiSVFmU1Q4a1MwQm1sYmUweDh2TDNQMldOR0p6aVNTVV8wNW5vUUVzdGFNd0pMdFBxb2JIZ1NiOGJVOERQT0xSa3hIS1JlVU5KOG4teTV5SnotbVhwWnE4VVZRMlQ2TFlD?oc=5",
+          "ts": 1785947237000,
+          "data": "2026-08-05T16:27:17.000Z"
+        },
+        {
           "titulo": "\"O estúdio não a queria\": Lançado há 46 anos, este clássico é uma das maiores cinebiografias já feitas - AdoroCinema",
           "fonte": "AdoroCinema",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nZUdRSUh2RDZhRW9nam1WcW9takFZVDh1XzJxTzAyZnIxT2VPb0dzYjhScnF1Rk1Lb1c0OTQ1MnMzRDdEajRIOXFTdl9pVHhiV2J1THdEYk5pRnE1dDJlNVpnUEVCcE50MEhNbGxqSEPSAXZBVV95cUxOa1dKQy1aQVJNOUFieXdRcG02c0dpVjFYNDFOU0ZWT3dzNDFfQVRtNFZ4Uk1KelVEamx2OTFPMkVfbUE2U19iUWhhcXRYdWFYQU9hU0VkcU9WTVI4ZkNmbGFYM3pjQk9pUWFTS0tGT2xITzREUXpR?oc=5",
@@ -483,11 +497,11 @@
           "data": "2026-08-04T23:30:00.000Z"
         },
         {
-          "titulo": "Cabeleireira de Adamantina lança marca própria de cosméticos para cabelos naturais após 17 anos de profissão - Impacto Notícias",
-          "fonte": "Impacto Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ2NnZzd5YmxhSVdyZkd6Ul9JWmhpRm5na3d6aExmSW83TzdaS1dnSUhDZEZDN3BqTWF2Vi0zelh0WnA1dU9fS2lNaTVfWkxmVWFPanJqd3Zwbkl4YzNGeVd3QUpNVHNKRC1RdkctY0thZ2pxQ2NKMTVVVUxaLUpGbkNzS1J5bGlmMnN4aDdVQmgxUWVvblRtYUcxQnFmaDlFRHZHYjE2c2NHUEFpemJqWEZsSG5VWUIyMFNwbFFfUnRkc0k0MDQyTHlPS2pmNWQyLW91eUNTWDUxc1Qwbmo0dmZYczlDZFU?oc=5",
-          "ts": 1785873328000,
-          "data": "2026-08-04T19:55:28.000Z"
+          "titulo": "Dono da gigante dos carros elétricos não fez carro nenhum com esse dinheiro, lançou um perfume chamado Cabelo Queimado a US$ 100 o frasco, faturou US$ 2 milhões em 24 horas e chegou a US$ 3 milhões com o estoque esgotado, dizendo que era par - CPG Click Petróleo e Gás",
+          "fonte": "CPG Click Petróleo e Gás",
+          "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQcHFPOXZJLVI5ekVjai1qOWpjNVoyZThuWFJUTGZpUldiS1VpMTViOXN6YktMandhUHFHZm41ZExndUstVjg4bTh3SkE2cHg5RFFTVEhaeFVJZGdXRlpDTzNnaHZQaUlFZ3FQbHYxekRZZFpWQTFnWFNORmJtTmpsa0dRODNlY2hIZE5DaEdfR1d0MHcwd1lvYUF4UkVpaUZNellNYnp5UUx1cEtuVVZEbUtzcnItVXZwakVJbjBoU1BqT0lyMFdfTGVyVm1jelJhQXBERWU5aWtGNC1rZDgyQlc4NmU1TkRYLTdlOFQ4aUV1STFnZjZJV1NXSnBRdTl6TTgwVFkxTDk1Rk5pQm5NRlNka1BuUDktNndWRndvVnpCZEZlWGVUZW1maFJ2YnRHWk56UGEwRzdXdkJDRnY2b1gxSGxXQQ?oc=5",
+          "ts": 1785855780000,
+          "data": "2026-08-04T15:03:00.000Z"
         },
         {
           "titulo": "Cadiveu estreia loja na Shopee com lançamento antecipado da linha Açaí Oil - Jornal do Brás",
@@ -497,25 +511,11 @@
           "data": "2026-08-03T14:33:44.000Z"
         },
         {
-          "titulo": "Os lançamentos de beleza de julho de 2026 para atualizar o nécessaire - Globo",
-          "fonte": "Globo",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3h3NlpyMzd6QWYtcnJpQkZxbzRNNXFCM3BpV0tCYmFWOEN3N2pqeVRYUUNrcERCNGd3blp6Y054b19wNUkxSHFfZUYzY3JUMllyNVBXOEl3Y3pEMWZtQ18tNHh4T0dRV25vM2xTNTVmYjk2T2ZScGxxNzRNOU4ta05RN3I1YlRFVkRoV2J2UWhwSkFxUDBEUzFJMEJUWHNBXzhDUUlZbFMzSGV6eXpCMm1aVmhmZ1hmbHdOVUVpTdIBzgFBVV95cUxOWG9ubTZrbE1ZaE5fLUw5Ql9YOHRqX0JlT2lWbEdCa2paQ2pBb3F2VEowdUdOai15c3J6cl9lV1pkZUN6MVU4MXRMZkFMeXFMYlRUcVZNM3AwRnV6cUFySHh6UzZjWl8wcFQxaHEtUFBkRFhrNHdSck5CNlNidzZxbVJtbXUzOVc4STA5akJqVVl0R0hGaHpRNExMWDMtcEhkV3dXUjVTdktFMTZRRThOQzJCZGVTWERBVUxTUmlfXzlqODdnMEJuUm5fZEJlQQ?oc=5",
-          "ts": 1785654067000,
-          "data": "2026-08-02T07:01:07.000Z"
-        },
-        {
           "titulo": "Beleza em alta: confira os principais lançamentos de julho - Terra",
           "fonte": "Terra",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdlZ6bGxxb29XSFlVOXh5OW9ieW1MNVA4OWZOZzVWZDVpWDhuSUpSZ0xTSUtaTjVURHZsY25zOWtKTVZ1ODFFdlRaZzMta1dVRzczdXJ5akZ0dERqYUVFU01zWFNYajNYNThhcnk0QjNjNFVMNU9aV1BVc0xzUVJQOFI5dW1VcVJVWkVlUXEyVFJ2MDVVSnFlNzdHeVZ4ZFhVd1Q5WlZvaDBUYi1SSTI5UVd0aFF1NkF5NFp1WURoU1VVNjBtc01lMi1FSXpaUlZKMmFkOHdhZUdSTFRRck9Lck9ORzFQMEluM0E?oc=5",
           "ts": 1785605700000,
           "data": "2026-08-01T17:35:00.000Z"
-        },
-        {
-          "titulo": "Ronda da Beleza: maquiagem, skincare e perfumes estão entre lançamentos - GPS Brasília",
-          "fonte": "GPS Brasília",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GLWhXcGRnODkxdFgtN0R5cDktOUxid1NiZGdEa1dtallmOEpWdzQ2dzhOdjZuTE54a19LWlhKLXdZNnExRzhNdDdCeTAzeWo3bEVkQmR5dVJWaWdXaTE3X3FlOHVMeVVpY2p0MzA2NUpFVFk?oc=5",
-          "ts": 1785600042000,
-          "data": "2026-08-01T16:00:42.000Z"
         },
         {
           "titulo": "Bio Extratus celebra 35 anos com projeção no Cristo Redentor - RADAR DIGITAL BRASÍLIA",
@@ -594,18 +594,18 @@
           "data": "2026-08-06T13:24:17.000Z"
         },
         {
-          "titulo": "PME com IA já disputa espaço de grande marca - valor.globo.com",
-          "fonte": "valor.globo.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPakpUcDRqblYyaHQ4T2ZkVUdQQm9SXzM4SWFETU1LUjFBNENTSVdNTHI0Y2trMXluNm9aS3FtRHhIdDJzckZPWHZGaEd3X3hMeEkzQ3NLUDZtanRVQm13OEZ5cmtzaFh1ZDY0MWdTTy1yV3RpSHlnaFhHQllYaXo0YWR0anJoY3BUUTlFU0FCRHZrc1BHM2lnOWRrTUlRQ3R0Q1lSZEtWaEUyMlRlaG1JMXRRVnpoR3J1dkJ5bnZPcmfSAcABQVVfeXFMT2pKVHA0am5WMmh0OE9mZFVHUEJvUl8zOElhRE1NS1IxQTRDU0lXTUxyNGNrazF5bjZvWktxbUR4SHQyc3JGT1h2RmhHd194THhJM0NzS1A2bWp0VUJtdzhGeXJrc2hYdWQ2NDFnU08tcld0aUh5Z2hYR0JZWGl6NGFkdGpyaGNwVFE5RVNBQkR2a3NQRzNpZzlka01JUUN0dENZUmRLVmhFMjJUZWhtSTF0UVZ6aEdydXZCeW52T3Jn?oc=5",
-          "ts": 1785935943000,
-          "data": "2026-08-05T13:19:03.000Z"
-        },
-        {
           "titulo": "Nuvemshop integra Pixel da OpenAI para campanhas no ChatGPT Ads - E-Commerce Brasil",
           "fonte": "E-Commerce Brasil",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMmlkQjhmR2xxaW9aRnNxSGZFSy1MV2RoU00tbXFOWW14UHF6ZUFhR3lQYmZOc184bGJxSW1fckRIc2R2Z0lOWkJaTGQ5VXNXcFE0b0d5cnNERDdNcVRHSmFXeldKUTFjM0llaUY2OWJwT1BNUHIxSUFQMWNFbkZVSGlEY0pjTGotTXprVE5wV3pOTm9MaHhBY2lJMGt2aldqY1VkLUNyc2JDVHc?oc=5",
           "ts": 1785878559000,
           "data": "2026-08-04T21:22:39.000Z"
+        },
+        {
+          "titulo": "Divinópolis Trend 2026 reúne especialistas em inovação e comércio digital; CDL Divinópolis participa no segundo dia da programação - cdldivinopolis.com.br",
+          "fonte": "cdldivinopolis.com.br",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOTU1LTXYtT2huRHBaWTU1S2EzdDdmbjA0SkdNb1pJeVBrbnNDWWRoR0I5N3NKVnhhcUlaM2twSi1FMVlYN25WUkhCcDMxQldsOGo4N3lsb3NBS0ZyS21UdDFSUXd4S3Q5S0lEcGx0R3ZtR19NVEZiR29PZTU5eVhFOWRCRDNxbFhBSzRqWjM3RHZOVnd2SjU0MHZrSzhZaURqVHVEcVFoNHZXZU1oQ2YtcFN1R0tiX2lydDU1dFZNeEV6QjEtNm81cUNDcUMzZHh3SUdhV0pjMVRUd1hPcmhxb3VvcnpaQXU5UGNHby01T0N4ZE9IbXFrcV9OaF93T0NRdzJaMlhUenBCRkY2R3RoRVNlUVFYREZQM3lV?oc=5",
+          "ts": 1785866552000,
+          "data": "2026-08-04T18:02:32.000Z"
         },
         {
           "titulo": "Como pequenos empreendedores podem conquistar espaço no e-commerce - Contadores.cnt.br",
