@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-08-22T08:15:41.241Z",
-  "total_materias": 81,
+  "gerado_em": "2026-08-23T08:16:49.292Z",
+  "total_materias": 78,
   "fontes_ok": 18,
   "fontes_falha": [],
   "categorias": [
@@ -245,6 +245,27 @@
       "nome": "Investimento & Mercado",
       "itens": [
         {
+          "titulo": "A Ferrari Luce vira item de coleção (antes mesmo de chegar às ruas)",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/finde/a-ferrari-luce-vira-item-de-colecao-antes-mesmo-de-chegar-as-ruas/",
+          "ts": 1787395362000,
+          "data": "2026-08-22T10:42:42.000Z"
+        },
+        {
+          "titulo": "Bar secreto em alfaiataria cria drinques sob medida",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/finde/bar-secreto-em-alfaiataria-cria-drinques-sob-medida/",
+          "ts": 1787395332000,
+          "data": "2026-08-22T10:42:12.000Z"
+        },
+        {
+          "titulo": "Seleção brasileira de robótica leva a ginga de Vini Jr. para os pés das máquinas em Pequim",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/finde/selecao-brasileira-de-robotica-leva-a-ginga-de-vini-jr-para-os-pes-das-maquinas-em-pequim/",
+          "ts": 1787395235000,
+          "data": "2026-08-22T10:40:35.000Z"
+        },
+        {
           "titulo": "Os EUA “descobrem” o déficit fiscal e a dívida pública elevada: bem-vindos ao Brasil",
           "fonte": "NeoFeed",
           "url": "https://neofeed.com.br/economia/os-eua-descobrem-o-deficit-fiscal-e-a-divida-publica-elevada-bem-vindos-ao-brasil/",
@@ -280,25 +301,11 @@
           "data": "2026-08-21T16:18:58.000Z"
         },
         {
-          "titulo": "Estrangeiro foge da Bolsa e agrava crise por juro alto e quebradeira de empresas",
-          "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/experts/estrangeiro-foge-da-bolsa-e-agrava-crise-por-juro-alto-e-quebradeira-de-empresas/",
-          "ts": 1787325676000,
-          "data": "2026-08-21T15:21:16.000Z"
-        },
-        {
-          "titulo": "Nova York desbanca o Vale do Silício e se torna a “capital” dos talentos de tecnologia",
-          "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/inovacao/nova-york-desbanca-o-vale-do-silicio-e-se-torna-a-capital-dos-talentos-de-tecnologia/",
-          "ts": 1787325493000,
-          "data": "2026-08-21T15:18:13.000Z"
-        },
-        {
-          "titulo": "Samsung abre o cofre e devolve até US$ 80 bilhões aos acionistas em meio ao boom de IA",
-          "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/negocios/samsung-abre-o-cofre-e-devolve-ate-us-80-bilhoes-aos-acionistas-em-meio-ao-boom-de-ia/",
-          "ts": 1787317652000,
-          "data": "2026-08-21T13:07:32.000Z"
+          "titulo": "Liverpool valida a tese do investimento em clubes de futebol — muito diferente das SAFs no Brasil - Estadão",
+          "fonte": "Estadão",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQm0xUXVxZkpzZWltTTYtb3NUOFZhbmtBVy1NTXZDYmZtT2xVVU5WLVRjSE1zWVlKRGpDTEZTZUV2SkVUVVlSa2xxNWtMSUJoZkJUcWtNY0daX01vS1lNTDJGbDF2NHNzbzBlamVkeVpPZGxJRmlSTWNxVFFkcE55Q0owdjE2TUJFU3VoeU5YdlFZVVBGX2NqaGtOal9RUnFOX3FNQWpmc0c2NTNlRnBXbmNldFBjdGhTeVRRYS1ncXJDTElMUDItdE8yZTR3UmlaWmlzbE9fcXp6RUd3VS1hWNIB5gFBVV95cUxNbi1yM3RXZjJOU3U2bjRMbl80dGE1SFBJY0haZjkzeFRJaW5RYjFFc0F4SW95NGtwYW42Rm5ka3NZdlJOeVloQ0hUaXA5cmZHd1VSTVdWSjFQV1Z4TUJHbXh0V3E0U3ZxekF0N0ZzMDhtVDBrVlpQN01nYml1LVRsTjgzQWQyZ0dtVEg5WWJWV0J1aGRlYldLWEd0dEw4TmNwa3RTYjUxRWR4S0t6WnVxTFBJeEN5VFc4NkdPTExVN3didS1PM3pDNy1OTFdTZmk3c01SVk5QV0NwQjdyMGh0eTBIX1Jfdw?oc=5",
+          "ts": 1787327814000,
+          "data": "2026-08-21T15:56:54.000Z"
         },
         {
           "titulo": "Black Beauty Week: Spending rises and funding falls, but innovation advances - Personal Care Insights",
@@ -306,13 +313,6 @@
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Lc2hoQVlRRGFBeWZGWTZ3ckl6T09wdGl3ZUUyZ1ZndUgwMVJWS2VGUjZNeVJGcGwydS1LcUw3eHpMTHl1VVRyYi1hM242TWtPWHNyeDY4WUI3RDZ5ZVpOS0I2X3E4SnhZS1psQTdqb1JROUN5bndZ?oc=5",
           "ts": 1787304518000,
           "data": "2026-08-21T09:28:38.000Z"
-        },
-        {
-          "titulo": "Liverpool valida a tese do investimento em clubes de futebol — muito diferente das SAFs no Brasil - Estadão",
-          "fonte": "Estadão",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbi1yM3RXZjJOU3U2bjRMbl80dGE1SFBJY0haZjkzeFRJaW5RYjFFc0F4SW95NGtwYW42Rm5ka3NZdlJOeVloQ0hUaXA5cmZHd1VSTVdWSjFQV1Z4TUJHbXh0V3E0U3ZxekF0N0ZzMDhtVDBrVlpQN01nYml1LVRsTjgzQWQyZ0dtVEg5WWJWV0J1aGRlYldLWEd0dEw4TmNwa3RTYjUxRWR4S0t6WnVxTFBJeEN5VFc4NkdPTExVN3didS1PM3pDNy1OTFdTZmk3c01SVk5QV0NwQjdyMGh0eTBIX1Jfd9IB5gFBVV95cUxNbi1yM3RXZjJOU3U2bjRMbl80dGE1SFBJY0haZjkzeFRJaW5RYjFFc0F4SW95NGtwYW42Rm5ka3NZdlJOeVloQ0hUaXA5cmZHd1VSTVdWSjFQV1Z4TUJHbXh0V3E0U3ZxekF0N0ZzMDhtVDBrVlpQN01nYml1LVRsTjgzQWQyZ0dtVEg5WWJWV0J1aGRlYldLWEd0dEw4TmNwa3RTYjUxRWR4S0t6WnVxTFBJeEN5VFc4NkdPTExVN3didS1PM3pDNy1OTFdTZmk3c01SVk5QV0NwQjdyMGh0eTBIX1Jfdw?oc=5",
-          "ts": 1787301000000,
-          "data": "2026-08-21T08:30:00.000Z"
         },
         {
           "titulo": "Em encontro de beleza, Sissi Freeman abre calendário do Estilo Brasília - GPS Brasília Portal de Notícias do DF",
@@ -391,18 +391,18 @@
           "data": "2026-08-20T17:28:22.000Z"
         },
         {
-          "titulo": "TikTok avança na logística e cria transportadora própria com capital de R$ 111 milhões - MundoLogística",
-          "fonte": "MundoLogística",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZFh5bXFXZGF0dk9jeS16eEU5VDlsdEpCYnNIRkJKYW5LSHV4SHpPZVFxaW42UG1iZkJHb2s1M3pZaE1vM2Y0bDhXOUp2MDdDazlwNG5kWUtaZ3k0RTNVc1o1REpTcThzeHlyd3N4N0xwejRnNHlJaDlxeDZkOVd1MERLZW4yeGRWeThxY1V2MFNsZFVsdUJOQ2tqMUVvMVg1QkE?oc=5",
-          "ts": 1787149079000,
-          "data": "2026-08-19T14:17:59.000Z"
-        },
-        {
           "titulo": "Conheça os livros da sessão de autógrafos do Logística do Futuro 2026 - MundoLogística",
           "fonte": "MundoLogística",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOEVNdFRDUG1nRlA2QXljaUpDVnZXeHlIVEQxV1I3bDBoR3UtV1dtbFpJMkZldDJFMTlOZGo3OFJZRDRXRDd6SUg1eXRzZWhPUjgxU25FNl9PTC1fNVpaWk5wQzdXc1N4dm1uN1QwVWtBS1JlYWpHUlIzYXVsb3NDall0bnlDdFdjMWl3?oc=5",
           "ts": 1787144754000,
           "data": "2026-08-19T13:05:54.000Z"
+        },
+        {
+          "titulo": "Camorim investe R$ 180 milhões em nova série de rebocadores azimutais - Tecnologística",
+          "fonte": "Tecnologística",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdG5kMGxUZTh5TlBKSG81UXA4Yjl2TFNnaklnSGFWN2NpY040RzQxdHdCNTROSG5HRzNrMlJxQWlEcHR0YmV3Q25KOF9UbkxKNk5wNk95T3NNSDRCM0FlSWxWUTZ3Yk5nU1I1R0N4S2hWZXF4Qkt1X0szbUhERURhbWp0LUthREk0STRzaHUtNDUzQ0FaSVpIVDYxTEQ3dlhUaGM1SXVwdWZfZ0o4VEtfN2tuR1RzakpYTWxKaU5ERUdUV2Vtd250dVRrb0wzRjdnMUs0Mg?oc=5",
+          "ts": 1787081374000,
+          "data": "2026-08-18T19:29:34.000Z"
         },
         {
           "titulo": "MRS conquista Selo Ouro do Programa Brasileiro GHG Protocol pelo 7º ano consecutivo - Tecnologística",
@@ -474,25 +474,11 @@
           "data": "2026-08-21T17:00:00.000Z"
         },
         {
-          "titulo": "Criança pode fazer skincare? Entenda os riscos dos cosméticos para a pele infantil - TNH1",
-          "fonte": "TNH1",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbnE5YXdDSWhndWVIbE8wZHc1TTdvdFgyRDhxRUpISUhId1B2alZJSEJ4NzlBR3FBaTY5VUphVzY3ZjMtRC00cmVFeTNWcnhFek9tS3VZLWhjYTltNjNHRDh3cTJld0NJbE94OWxxaUdmSzhtYTZfMm42dmpHUmpTRWNSd28yQU9MWmpCNkxEN1V0dzNQYm5MM1BGdGkxSmdxSUpiOTVEQTVDd0tSY2VjejlSblhmMm1ocmR30gG7AUFVX3lxTE1ucTlhd0NJaGd1ZUhsTzBkdzVNN290WDJEOHFFSkhJSEh3UHZqVklIQng3OUFHcUFpNjlVSmFXNjdmMy1ELTRyZUV5M1ZyeEV6T21LdVktaGNhOW02M0dEOHdxMmV3Q0lsT3g5bHFpR2ZLOG1hNl8ybjZ2akdSalNFY1J3bzJBT0xaakI2TEQ3VXR3M1BibkwzUEZ0aTFKZ3FJSmI5NURBNUN3S1JjZWN6OVJuWGYybWhyZHc?oc=5",
-          "ts": 1787324400000,
-          "data": "2026-08-21T15:00:00.000Z"
-        },
-        {
           "titulo": "Embelleze lança terapia capilar Novex cicatrização dos fios para reparar danos e recuperar a fibra - Tribuna da Bahia",
           "fonte": "Tribuna da Bahia",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeW81cDUycE95R1VnUEtnM2RxczlROHV3QXNPYnVzX1BlUWxTc25yaXNVTUoxTFJhVnhCREpQUTFEZ0hIbVBFYmMyRTI3ZGFqWHBfZkZfVDE5RGVkaFNKZUtOaVY5MTdzV0ZCdVJKN3JMNF9tc0JNbUZoMXZhU1ZXQWEtTW9yYTdnQzFfaTdmM01nb1FfbnZXUTdVc2xuTzZuQ3lpUFpKTUU2Zi0tZi11Z0NTaUE5NjlhcUVBWElYU25IcmotUnRobGhnN3dzLU5MNW9CSw?oc=5",
           "ts": 1787049540000,
           "data": "2026-08-18T10:39:00.000Z"
-        },
-        {
-          "titulo": "Ilía Jardim Secreto: Natura lança novo floral com ingredientes da Amazônia - João Bidu",
-          "fonte": "João Bidu",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT001UlZsdjdybGwyRmJWdWhGZzFDZW55eVFkbzNxa3MwMTIwNHVNTWZoZlB3dEpvZ0p3aXl4Q1drTnNTZ0FKVUdWbFFhUnppT2NxdUQwN3hSa1FLdGZRUW9yYUNXckpnS2xBT2JJbEZzVndLNFJVYmYyb0hSWWRCM0RoSUlfNDdncU0wOWJ5anJSaDFpNm85VDdtdkJDZTdzdS1udU4teGpzT1ExV2FYSnV3cDBoZ3VsdnJtcXBR0gHDAUFVX3lxTE45TmNDbnp5TVFtVnZDMTgycFhlamt5eG9VZFd5dUlnam9BeGJvXzZGcVhsdlQ3QUxCbFV0SHotSXdhX3dsOHpCN1VNdnk2dGluNDlkLWxrNEVpYzVXZ2JSS0h6UHhWWVg1ZXFjZTRrdWFWNnNFT1hiUnVfaWdtWFA2dVZQd1VQUi1faGZQUDM4UnRMbXdDYlY2dTBRSDJ6LVVOMmNERFJDZFN0RzgyR2pZY0k4THBzQ3FpckxQLWl1dmJKTQ?oc=5",
-          "ts": 1786998000000,
-          "data": "2026-08-17T20:20:00.000Z"
         },
         {
           "titulo": "Finalizadores para cachos: elencamos os 5 melhores para sua rotina capilar! - João Bidu",
@@ -507,13 +493,6 @@
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd2RtNUFrWHl6VHVXRHJTNDd1d1lRZzBLdllBS190bldSSXhwRERhQVhzZnJZcHpsOUhDSEhibVR3cE05NVBIZHVHRjF6TEtUaFNHUzRMdkgtX1Q5VkI3WHhyQjAxT0MwMTBOcFk1b3NWLW5veHR5aTNVbGJDVVlQUGM2Q3hpT0h4aWN3enhTNXdDano5OXpJV0tGajFVWlBFaVFSbGJ2VDJ0WE5tTGFJUFdYT2NhWEVJa1pwWnMyenFRaHk5N2ZPNDkwLWRPY0R0TDBkeg?oc=5",
           "ts": 1786431600000,
           "data": "2026-08-11T07:00:00.000Z"
-        },
-        {
-          "titulo": "Stikadinho ganha versão bombom e amplia uma das linhas mais tradicionais da Neugebauer - Academia Brasileira de Marketing",
-          "fonte": "Academia Brasileira de Marketing",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTlB0MnBaYktBVWxtc1ZiVWxWUW5uSTdlb1h0NEx1VGNUX1ltcmwwajBXZVE0bU5xSi1EZkJ6eUZaTmtLWGxyRWlCRy0wdGcyc3hPb2duOTROM29QVXpmZzNnQXFrVnJUNXYzbmtsNkdHSDBRYWMwYm9pZlA1V3JlaGhDbXU5ODdJY1QwaThWSkdxbUVoX1M4bnI1QW5RVlotdUJuYTRmQm5sbFZpRG0xODVLeE1ZbGFKeG1hQS1KeVk1Z1k2TDhVdldqanhEQQ?oc=5",
-          "ts": 1786387260000,
-          "data": "2026-08-10T18:41:00.000Z"
         }
       ]
     },
@@ -564,13 +543,6 @@
           "data": "2026-08-21T18:28:00.000Z"
         },
         {
-          "titulo": "AMG expande parceria com a Lugano Chocolates no Brasil e nos EUA - Acontecendo Aqui",
-          "fonte": "Acontecendo Aqui",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa0ExVWNzUEtRZ3lfV013YnlZNEQyUnRmOHM3aGNjakp6SU81VjllVmY1MDRFbjhmWE1QTjFSbWpRY3FDY1pRbllsUVV3TUJ0LXdLWnlabVZiSGU1UHIydzRYTTJfaHM4LVhFbUhzNkRzaC1tbWkzMktrRjIwUTN1NzdCX19mOVh3WHBlM2Q1VWU1N190dk9qV1JGVHJZdUtMbWVhaG9qQjFyZw?oc=5",
-          "ts": 1787255909000,
-          "data": "2026-08-20T19:58:29.000Z"
-        },
-        {
           "titulo": "ChatGPT Ads no Brasil e o tráfego de alta intenção de compra - E-Commerce Brasil",
           "fonte": "E-Commerce Brasil",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaFFOSW5oUVZRcVNHWkktalQ5TjVxTzM2NGVJQWV2dTNsaG5SQ1dIYzFJd2Vid3l6LTZKQmlGbi1mclI5aWJGWUNCN2dUWmppbHZWNzk0allsakFBMTE5ekMwdGtGb3NkSlVLeS1rXzEyLXlfVXhSeGxuV2lNNFhEOUhPT0s2LVpFSEpXNnpqbDRXbXQwSE9OdlpfSXJ1bFF2R2FsNDJn?oc=5",
@@ -604,6 +576,13 @@
           "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNc1pNSzRxZ1ZkTmx2R015Q2loeldVTWk1czVMS1FBbFpnTWJ4ZTNKaFdmX2FJVE1Zc3dBRWEwRkY3VmtRcjNHLXlZTldUemZUWWFoX0dfd2ZKZDhSTmEyOXFDTWN4MG42eGR1S3dJZDJZRmNiX0Mwazc1SDJDaXpwWFM0d1VKZlZpcExZVW43TTJvQUx3c1VTT3oyRmhVLXFYOGp6b3o5TUpwRnZDcExELUdrTjdyVUlhMFA1dmxyX2lOLWNEOTYwWVg5VDIzX3V3RTlQSlpZczItaHlmaE0yS3Ixbk9rTDZyX3NUS2VMOElsSl9WdldBenM4QnM5WXVjb3IxN0t1NVozblR5SnfSAZwCQVVfeXFMTmtOQklMTUQtYVRISTduNmdkUkM0OXBERnVPaFhyMUpwS0hXMy1Nd3NSZHRNRkpiZ1hrc0FuZ1c3MHpyakhxVXhhODJBQXV0Q1pHQUdaMzBvRTdGalp2RkJnODdXOVNDZ01Td2pxMjJHc0V6Ym5mWkcwWVFFSmF4ZF93WFpuQnFFc1d0R3NfdlZ1OTdpZVR2cGhIUFAtTHVNNFRleThPQml1YmxrZkFlV0tpbkFaTzZIZ0NEUTBxWVJSQW5HTWtFejVsb0Q5dG9DNkRGdEVZbHJZY2oxWXhJY1UxZW9VckRicEM2VTFULU1hdVcxUGdHM0cwNEltMWl2THZ3aGhwdXU0dTNKR0RHck5oWDVjVGlNRzNxTTQ?oc=5",
           "ts": 1786977464000,
           "data": "2026-08-17T14:37:44.000Z"
+        },
+        {
+          "titulo": "Sul africana Smollan adquire a catarinense Híbrido - noticenter.com.br",
+          "fonte": "noticenter.com.br",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWdFU2ItSm5YZ1Q1LWJQQ3F4anVTX3pTYS1WNEw3ZzNpU2JRTnZvMmZSMDA3TWg2ZFpWOUFFdEpia0dqY3doMEhqVlVuRGJyTWJ2QlJqOVdTc3Vvb3BLb0hiMkpQa1FSajRPeVVObk1wVXI2ZEtGejJ6RllDU2dmWGpoR0U0Vi10ZVdQcEh2cUJMR09UWXJDSVlB?oc=5",
+          "ts": 1786925601000,
+          "data": "2026-08-17T00:13:21.000Z"
         }
       ]
     }
