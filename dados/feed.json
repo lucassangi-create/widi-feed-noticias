@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-29T13:27:30.172Z",
+  "gerado_em": "2026-08-30T13:23:39.134Z",
   "total_materias": 75,
   "fontes_ok": 18,
   "fontes_falha": [],
@@ -127,6 +127,20 @@
       "nome": "Beleza & Capilar",
       "itens": [
         {
+          "titulo": "Brad Johns, Influential Hair Colorist Known for ‘Chunking,’ Dies at 70",
+          "fonte": "WWD Beauty",
+          "url": "https://wwd.com/beauty-industry-news/beauty-features/brad-johns-hair-colorist-obituary-chunking-1239174850/",
+          "ts": 1788043274000,
+          "data": "2026-08-29T22:41:14.000Z"
+        },
+        {
+          "titulo": "Beleza: Mulheres maduras ganham espaço na feira - Portal Terra da Luz",
+          "fonte": "Portal Terra da Luz",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcEtmcDE0R3VLR0J6LU5HWGhmSXZhNzN4dk5xZmdiVTVMV2xNenVFSW55MmVvbi16M3dhZWdkdXRGRkZxY2lVYU9mOXZmMlo2b3BJaDBWMlY3NUswODFNSERjWDBzTW96VGU5RGVORHZYcW8zc1AtVDZHZ0Z3X0JTSzdFblRyQl91TnNvRVpvakdRLWs?oc=5",
+          "ts": 1788030449000,
+          "data": "2026-08-29T19:07:29.000Z"
+        },
+        {
           "titulo": "Glossy Pop Newsletter: How Maybelline leveraged ‘Love Island’ to supercharge lip gloss sales",
           "fonte": "Glossy",
           "url": "https://www.glossy.co/pop/glossy-pop-newsletter-how-maybelline-leveraged-love-island-to-supercharge-lip-gloss-sales/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
@@ -160,13 +174,6 @@
           "url": "https://cosmeticinnovation.com.br/gucci-guilty-intense-amplia-linha-masculina-em-lancamento-global/",
           "ts": 1787929540000,
           "data": "2026-08-28T15:05:40.000Z"
-        },
-        {
-          "titulo": "Mercado de beleza no Brasil deve avançar 42% até 2031 - Guia da Farmácia",
-          "fonte": "Guia da Farmácia",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CLWdBNFQxUDdmZDVTNHdEUWFoMEgzZDRNOVVBMFVuY3ZLM29CR2RZVjAza29SSF9XX2Q1Zzl0TTQyV0JRdWozZTNWWnlqZXdIN0FRMkNkQVkxOTdLaDhaY1NpQTd5ZE5lSVE?oc=5",
-          "ts": 1787922007000,
-          "data": "2026-08-28T13:00:07.000Z"
         },
         {
           "titulo": "Alfaparf adquire Cosmo e expande produção no Brasil",
@@ -230,13 +237,6 @@
           "url": "https://wwd.com/beauty-industry-news/hair/estee-lauder-kathleen-mitchell-head-new-global-haircare-hub-1239166487/",
           "ts": 1787846526000,
           "data": "2026-08-27T16:02:06.000Z"
-        },
-        {
-          "titulo": "Former WeightWatchers CEO Sima Sistani Debuts Fragrance Brand Liberation of Flowers",
-          "fonte": "WWD Beauty",
-          "url": "https://wwd.com/beauty-industry-news/fragrance/sima-sistani-liberation-of-flowers-debut-1239165028/",
-          "ts": 1787803260000,
-          "data": "2026-08-27T04:01:00.000Z"
         }
       ]
     },
@@ -244,6 +244,48 @@
       "id": "investimento",
       "nome": "Investimento & Mercado",
       "itens": [
+        {
+          "titulo": "O francês que tenta vender o audiovisual brasileiro para os investidores da Faria Lima",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/finde/o-frances-que-tenta-vender-o-audiovisual-brasileiro-para-os-investidores-da-faria-lima/",
+          "ts": 1788095738000,
+          "data": "2026-08-30T13:15:38.000Z"
+        },
+        {
+          "titulo": "A “mão de Deus” não fez milagre no leilão",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/finde/a-mao-de-deus-nao-fez-milagre-no-leilao/",
+          "ts": 1788095402000,
+          "data": "2026-08-30T13:10:02.000Z"
+        },
+        {
+          "titulo": "INVESTIMENTO MILIONÁRIO | O Grupo José Alves, conglomerado empresarial com origem em Goiás e dono de empresas como a Vitamedic, está prestes a assumir o controle da Jequiti, empresa de cosméticos pertencente ao Grupo Silvio Santos. Segundo - instagram.com",
+          "fonte": "instagram.com",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HdHMwaEFOUmJwYklEQkY0WVNtdW5DamVxb1ZDOU9ldC0wVHBmZDcxM0RYSDUydmJKaU54UUUzbzJralJTaTZnWDVJSWlzcmVVQmc?oc=5",
+          "ts": 1788053478000,
+          "data": "2026-08-30T01:31:18.000Z"
+        },
+        {
+          "titulo": "Por que muitos restaurantes estão fechando as portas para os influencers",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/finde/por-que-muitos-restaurantes-estao-fechando-as-portas-para-os-influencers/",
+          "ts": 1788032709000,
+          "data": "2026-08-29T19:45:09.000Z"
+        },
+        {
+          "titulo": "Como a “Blazymania” fez da Chanel o novo hype da alta moda",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/finde/como-a-blazymania-fez-da-chanel-o-novo-hype-da-alta-moda/",
+          "ts": 1788032457000,
+          "data": "2026-08-29T19:40:57.000Z"
+        },
+        {
+          "titulo": "Jequiti é vendida ao Grupo José Alves por R$ 536 milhões - Portal Lupa1",
+          "fonte": "Portal Lupa1",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTFNRa19Qb0dQQ3VkNlJPTjdFc1Z5X004cWd2eFdQazJpbkVJN0dNY25wdWtqaDBLTlc3WUpvMjl5WHB0bVNscFlGQ2dJMC1FdVBVcm9uX1I3XzdocFl4N01NY3F5MjdQVGJxdlpLVXJfbHZIdVFLV0QtTUw5V1JiRUI3MGYzSG9UM0tkdGVxUHY0VFVLcU5oQ0RnVGZ0X0ZGa1lQTA?oc=5",
+          "ts": 1788012057000,
+          "data": "2026-08-29T14:00:57.000Z"
+        },
         {
           "titulo": "Os negócios (e a biomecânica) por trás do recorde mundial de Alison dos Santos",
           "fonte": "NeoFeed",
@@ -259,20 +301,6 @@
           "data": "2026-08-29T12:30:04.000Z"
         },
         {
-          "titulo": "Rio Tapajós sem dragagem pode travar Arco Norte e gerar prejuízo de até R$ 850 milhões",
-          "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/economia/rio-tapajos-sem-dragagem-pode-travar-arco-norte-e-gerar-prejuizo-de-ate-r-850-milhoes/",
-          "ts": 1787952139000,
-          "data": "2026-08-28T21:22:19.000Z"
-        },
-        {
-          "titulo": "Corredor Minas-Rio testa modelo para pôr carteira bilionária nos trilhos",
-          "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/economia/corredor-minas-rio-testa-modelo-para-por-carteira-bilionaria-nos-trilhos/",
-          "ts": 1787950362000,
-          "data": "2026-08-28T20:52:42.000Z"
-        },
-        {
           "titulo": "Celso Kamura Inaugura Novo C.Kamura Nos Jardins Com Investimento De R$ 5 Milhões - ABC Agora",
           "fonte": "ABC Agora",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ualBsc0VGbEZHUnVqNlRadG5SLWNzOWh1MWRhWjhYSXpPN21aQ3ZIYURhOTBNbXhNZXhMQ2ZNRXFEODVUQ1hkZzlycGthY19oQ19ROExlb3Btb012VlNhLWtJNTFUeEw3YzdHQmR2MDhJUG5pMGNXaQ?oc=5",
@@ -280,32 +308,11 @@
           "data": "2026-08-28T20:01:15.000Z"
         },
         {
-          "titulo": "Fim da escala 6×1 vira vitrine política no momento em que o PIB aponta tombo",
-          "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/experts/fim-da-escala-6x1-vira-vitrine-politica-no-momento-em-que-o-pib-aponta-tombo/",
-          "ts": 1787945220000,
-          "data": "2026-08-28T19:27:00.000Z"
-        },
-        {
-          "titulo": "“Governança na IA será mercado importante para cibersegurança”, diz Alberto Leite, fundador do grupo FS",
-          "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/neosummit-ianareal/governanca-na-ia-sera-mercado-importante-para-ciberseguranca-diz-alberto-leite-fundador-do-grupo-fs/",
-          "ts": 1787944943000,
-          "data": "2026-08-28T19:22:23.000Z"
-        },
-        {
-          "titulo": "Natura conclui acordo com Advent e amplia conselho após aprovação dos acionistas - Valor Econômico",
-          "fonte": "Valor Econômico",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOY055MG9lRlMxbXNFZTZuN2tqcGY2T29odW81ZmRYekpkWHFSZVBjNkZTZDZDV2w0YVhEekFwcDJyWjBrTkR4c3dSTld6c21HTFZ6WnM5c2ZWeVN3WldISWxsNVdpVGc4M3dDVEhqejlWVGpOQVVxRjRkYTRDb2ZZMXBNOFE5T2tvSWQtRlFNc3pjcE1WaW1qTk1mTGZnT0JQck54UE4xQXJlLXRoQ3dOZFpjakV6RXItdXV4UzVEdi1KekZyMVY0eHQtT1VlSzcwbk03OHlBNEdPeWZ6dDg40gHfAUFVX3lxTE5jTnkwb2VGUzFtc0VlNm43a2pwZjZPb2h1bzVmZFh6SmRYcVJlUGM2RlNkNkNXbDRhWER6QXBwMnJaMGtORHhzd1JOV3pzbUdMVnpaczlzZlZ5U3daV0hJbGw1V2lUZzgzd0NUSGp6OVZUak5BVXFGNGRhNENvZlkxcE04UTlPa29JZC1GUU1zemNwTVZpbWpOTWZMZmdPQlByTnhQTjFBcmUtdGhDd05kWmNqRXpFci11dXhTNUR2LUp6RnIxVjR4dC1PVWVLNzBuTTc4eUE0R095Znp0ODg?oc=5",
-          "ts": 1787880394000,
-          "data": "2026-08-28T01:26:34.000Z"
-        },
-        {
-          "titulo": "Advent ganha cadeira na Natura (NATU3): acionistas aprovam entrada da gestora e dispensam OPA - Seu Dinheiro",
-          "fonte": "Seu Dinheiro",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMkhiUnMzNGRUMUoxUVNBY3F1Z3Y0TEFSWnUySDRxaldnVmdpRV9yOXFmczFpb1lWWjFpQVdiZ2hSaXctMVQ2aDlSXzZzODBMeEVLYmozVC1rQnN0NFVrRmFmRVFoVThiVHZJWEp6amxNa18wc2pabUNpMFNPU0xaM05sS2FYVmt4UHZjY1BtT1E5S01rTURBOXMyOHM3c0tWell0N1B6Y1hhN1RFdHFVWEZMRXliRVBxME5zellrdG0waENLSjF5YzN0RjZsQ1BXeUJNSA?oc=5",
-          "ts": 1787869018000,
-          "data": "2026-08-27T22:16:58.000Z"
+          "titulo": "The Vogue Business Beauty Trend Tracker - Vogue",
+          "fonte": "Vogue",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96eFRtR1g5NG15VmJxdk9GX3B1V1FJdWRDdkJPb1pHMWk3d2pwMV81WFBURlJxaHRadVZTWUFKR1VSc21KX1lyVTUxa2NSa05nRmxUU1FRb1hFVWNvc2hDZ25YYUQ0Y09jMzNhLTZuWGk?oc=5",
+          "ts": 1787911319000,
+          "data": "2026-08-28T10:01:59.000Z"
         },
         {
           "titulo": "Elevator Pitch Brasil aprova cosméticos para pele negra e projeto de cozinha sustentável no sexto episódio - O Universo da TV",
@@ -348,13 +355,6 @@
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EakViUnpRSFVudGRnWTB3cGY5dHlKZEx1LXVENEgzRE5YRHVhM1BqNWpRdEZhRmJ2MENTcnoweDJpVjNjSFczckF1UGhlWTJvYjM40gFYQVVfeXFMTWtGRzdlamY4Umg5c1F4LTN5SU9QYXJCYjRLcm1VTl9UTkM0eVRxQUFiWUFhNUF0NnpWbkI5dDZGbS15cnNUdWlNVWRyck1Lc0JqX0djcHV1aQ?oc=5",
           "ts": 1787748323000,
           "data": "2026-08-26T12:45:23.000Z"
-        },
-        {
-          "titulo": "K-beauty’s Dr.Forhair enters US with Sephora amid Korean hair care boom - Cosmetics Business",
-          "fonte": "Cosmetics Business",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SY0hoMTBvOHZBa2R1RUpjZnhVZ0N3V2w4cnlXUnVNS19GQV93eW81Rl9ZYzdKcXVfVjJxcmNEd3JnVURhWWk2TERjTC1jWkE4MWVFU2UybW9aNndTQWpHejBDdTFvQUJadFhjZEM4U3pPMmIxbVUzV3RvbFM?oc=5",
-          "ts": 1787743154000,
-          "data": "2026-08-26T11:19:14.000Z"
         }
       ]
     },
@@ -384,18 +384,18 @@
           "data": "2026-08-27T21:23:09.000Z"
         },
         {
+          "titulo": "BYD e SENAI formam 367 profissionais em sistemas fotovoltaicos em barco-escola no Amazonas - Tecnologística",
+          "fonte": "Tecnologística",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcFFRaFhtZEgtaWNmLTEzM0x5TmJiUWNqUzJ3SlhRSDZkVHdiY2FkSTFyVGpRUU5ZbHRxeHlETUVscmJuYUFMQUZ1ZlVnZTRMX2p3bjA0ZEVGc1UtSXJLNWp1cXNkOXM2Tm4wWDhtbGxycXdCTXNiYnEwaDlaTTA2ZzR4cHFfdUxQbFlBN2VhbUlpWlhxUlNnSHVEc1Jiand5amExb1p1anJ5WjFhNHJuQlYzUTZ3RU9tS1phT0x6T3ZTZGpSQUlkakQxckpBNXh4TXhwMF92ZV9Jb09wZ25Cam9wQl9Vc1U?oc=5",
+          "ts": 1787836157000,
+          "data": "2026-08-27T13:09:17.000Z"
+        },
+        {
           "titulo": "Amazon lança entregas por drone no Reino Unido - AICEP",
           "fonte": "AICEP",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNFpYX2htdC00VVBrZlBXeXBhSGc0Y2RlMkk3OW5wZ3luMDdwZk03SDdMX1lic0tFUVFMVnMwZ3JNYTlHd1QwaEtKdXBHS0lkT1F5RzRGNmJMaVByVW1pZmtDdHZrb3hxQzA4a1NPMWstWkwzU29wdnktUXdYOFJzOUlYY0s4YXN5UGF0U1pqYldtcDNvSkRQeWdR?oc=5",
           "ts": 1787827464000,
           "data": "2026-08-27T10:44:24.000Z"
-        },
-        {
-          "titulo": "Livro “A Nova Fronteira” questiona o protagonismo da tecnologia no Supply Chain - MundoLogística",
-          "fonte": "MundoLogística",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR3lOdEY2N3BkeDdrN0FXZkdiMDBtY094WU5qYWttMUFubnQxWDZybVd2aHRhdnNmbEhfTmtDbXlnRjdWazgyUmlLVUNEOUxGX0J0RmJ4TV83UWlPelE2Q1R2aXllQUFmeWZPYlhreDdyTEo0TFMzRGtfV283cGFJdmlOd2xUY09IdEExZHVaSjd2eGQwV002N19ldmlWZEtqNmcxWnpPZ2lQdw?oc=5",
-          "ts": 1787761769000,
-          "data": "2026-08-26T16:29:29.000Z"
         },
         {
           "titulo": "Da paletização à entrega: Como a IA está redefinindo a logística de carregamento no Brasil - MundoLogística",
