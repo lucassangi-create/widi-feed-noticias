@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-19T12:07:55.331Z",
-  "total_materias": 79,
+  "gerado_em": "2026-09-20T12:43:27.410Z",
+  "total_materias": 78,
   "fontes_ok": 18,
   "fontes_falha": [],
   "categorias": [
@@ -72,18 +72,18 @@
           "data": "2026-09-18T04:00:00.000Z"
         },
         {
-          "titulo": "Artigos e notícias mais recentes de Cleber Brito - E-Commerce Brasil",
-          "fonte": "E-Commerce Brasil",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05M0VQYmJ1LS1sZTlQdWxGY3psWFczcGtvZElNRklRY2RiaXVuSmItb2dWb1d0dUtZT3hKMURHem5ob0U4YlNTVi1ncmVTcnhpaEtpcVpBOWx3azk0UDllTHFR?oc=5",
-          "ts": 1789681716000,
-          "data": "2026-09-17T21:48:36.000Z"
-        },
-        {
           "titulo": "Varejo cresce, mas consumidor reduz ritmo em compras de maior valor - E-Commerce Brasil",
           "fonte": "E-Commerce Brasil",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ0JGazZpRG5VNnpzM2s2eVJBUDgzQmozN29OQUd5aFNMRDliOVZ0R1dDdTE1MU9VOWwxRXViSHFwWnZDcGZHaEl1amswQ0M4LWVHSEVLeGd5d0FIa3NaZ19HX29jSXYyVXRZcGtvUWFscUR1b0sxMXFmM3JXeHRPbjdHbjZFbFhEcE9Fb1BDWjlMQkluY2k3UHA0c3VsNlJyVUcwMDlXZ0toaG9BSVhF?oc=5",
           "ts": 1789676581000,
           "data": "2026-09-17T20:23:01.000Z"
+        },
+        {
+          "titulo": "H&M inaugura mais uma loja no Brasil - E-Commerce Brasil",
+          "fonte": "E-Commerce Brasil",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcElfYkRNMUIyYTVWRGpyTGFhUzFUMkU4Z2g2LVRMcmpUVGF4WGNyQ2piNWNoeEM0ekpNOGM5Qjdia2dSVlhwb2Y2ZFVYMnJaZ0kzeDAxSk9lS29TVExzSkVpOWRGY0plWVdHQ2xmZHR5dTF1QUFXd09YSUlWOW53X2JleERwUQ?oc=5",
+          "ts": 1789660800000,
+          "data": "2026-09-17T16:00:00.000Z"
         },
         {
           "titulo": "Big-Box Briefing: Target-owned delivery app Shipt makes AI push, mirroring Instacart",
@@ -134,8 +134,8 @@
           "data": "2026-09-19T11:08:03.000Z"
         },
         {
-          "titulo": "Mercado de beleza premium cresce 6% no Brasil - panoramafarmaceutico.com.br",
-          "fonte": "panoramafarmaceutico.com.br",
+          "titulo": "Mercado de beleza premium cresce 6% no Brasil - Panorama Farmacêutico",
+          "fonte": "Panorama Farmacêutico",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS1pURFJCckIyd2pYNGFmZ19nQjhzMmcwY1FGUE5NZ2h0WTFKb2RqelpvOHViZ0wzc05nY3UtOWE3Q3ozYWZweW1JdXdnNTJGWXp1Qzhic2JSSmZhMkhOdHA3Wm1OdGRUbWN4NFFrQ2JsME5WVk1TWkU1eFZzOFNfellINmY0d2xC?oc=5",
           "ts": 1789810200000,
           "data": "2026-09-19T09:30:00.000Z"
@@ -190,13 +190,6 @@
           "data": "2026-09-18T15:52:31.000Z"
         },
         {
-          "titulo": "Como ganhar dinheiro na área da beleza: por onde começar - Serasa",
-          "fonte": "Serasa",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UdGs0ZVpZQzVIYnF4blpiZFZQV05kTUJEMUtBcW84eVZhU253bzhRYzZBTjFNeGQ0UnZIMzYyYWN4dVFrOFd1dW5NcHU4c1NtbGJ4ZjlDanM1SVE2eFZlQ2NCVGtZM0kwODU0anBJaUlMUQ?oc=5",
-          "ts": 1789743900000,
-          "data": "2026-09-18T15:05:00.000Z"
-        },
-        {
           "titulo": "Interparfums’ Roberto Cavalli Fragrance License Extended Through 2046",
           "fonte": "WWD Beauty",
           "url": "https://wwd.com/beauty-industry-news/fragrance/interparfums-roberto-cavalli-perfume-license-extended-2046-1239244014/",
@@ -237,6 +230,13 @@
           "url": "https://www.glossy.co/pop/why-anti-blush-is-taking-over-social-media/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
           "ts": 1789704000000,
           "data": "2026-09-18T04:00:00.000Z"
+        },
+        {
+          "titulo": "Glossy Podcast: 6 new things we saw at NYFW",
+          "fonte": "Glossy",
+          "url": "https://www.glossy.co/fashion/glossy-podcast-6-new-things-we-saw-at-nyfw/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+          "ts": 1789704000000,
+          "data": "2026-09-18T04:00:00.000Z"
         }
       ]
     },
@@ -252,8 +252,8 @@
           "data": "2026-09-19T09:02:00.000Z"
         },
         {
-          "titulo": "Panvel acelera investimento em cosméticos com nova linha de maquiagens - jornaldocomercio.com",
-          "fonte": "jornaldocomercio.com",
+          "titulo": "Panvel acelera investimento em cosméticos com nova linha de maquiagens - Jornal do Comércio",
+          "fonte": "Jornal do Comércio",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ2JaZm16elR6WW82RXBwODFjcnZHLWRJZlI4czFPRmVaZUZFVXAxcVI2M2ZnZHNSQzRDMW02MUFVaC1tQ096Tlc0Q01TcklrS3Zvbk1UZGhyc05Zbnh2elVaclZjajVCb3VGQXFsS1laOUtBV1haWWRKOWdiYnlJb1ZpTFZaUVBWSXR2by15TmdiTVpjZkYzeGRjeTdiMmhIdDJkX1lKVEdHeFRoWlVDV0dldXdzMGtlbFB0aUplY0M3VE9WSDVFM2lFZFdsTUhYNHdV?oc=5",
           "ts": 1789754463000,
           "data": "2026-09-18T18:01:03.000Z"
@@ -271,13 +271,6 @@
           "url": "https://neofeed.com.br/negocios/do-boi-a-cerveja-proteica-divisao-da-jbs-aposta-em-saude-de-olho-em-mercado-de-us-100-bilhoes/",
           "ts": 1789744227000,
           "data": "2026-09-18T15:10:27.000Z"
-        },
-        {
-          "titulo": "Como ganhar dinheiro na área da beleza: por onde começar - Serasa",
-          "fonte": "Serasa",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UdGs0ZVpZQzVIYnF4blpiZFZQV05kTUJEMUtBcW84eVZhU253bzhRYzZBTjFNeGQ0UnZIMzYyYWN4dVFrOFd1dW5NcHU4c1NtbGJ4ZjlDanM1SVE2eFZlQ2NCVGtZM0kwODU0anBJaUlMUQ?oc=5",
-          "ts": 1789743900000,
-          "data": "2026-09-18T15:05:00.000Z"
         },
         {
           "titulo": "“O tempo sempre vence”: Warren Buffett deixa a presidência do conselho da Berkshire",
@@ -315,8 +308,8 @@
           "data": "2026-09-17T21:59:59.000Z"
         },
         {
-          "titulo": "Cambridge Savings Bank Supports Belle Brands’ Acquisition of Vegamour - citybiz.co",
-          "fonte": "citybiz.co",
+          "titulo": "Cambridge Savings Bank Supports Belle Brands’ Acquisition of Vegamour - citybiz",
+          "fonte": "citybiz",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPckNGLWtfVUNmbE80U29EZTFNWFNNLXItVkNxWTlWZzFhaVBoazdpMHk4Y3ZGaDZ2aWI1WlNzSXZ0dlA3QTFTNGg5dm1hTDl1R2NnOGlYLVY3RklISHBpbGRFcExZV1ozN3B4U2V6SVdSZmt0TDR3SjlITnE4UlVsRkJPaV9nc0hlS0ZLakF0WGNZZm9hcFJNWE4td0x6bXJuenpZVUdFemVyVDA?oc=5",
           "ts": 1789677905000,
           "data": "2026-09-17T20:45:05.000Z"
@@ -343,11 +336,11 @@
           "data": "2026-09-17T13:03:15.000Z"
         },
         {
-          "titulo": "Fara Homidi's Funding, Celebrity Brand Closures, Sephora's Latest Launches And More Indie Beauty Dish - Beauty Independent",
-          "fonte": "Beauty Independent",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPREU5RldIOVpUaHltNTJkZkI1cDV4Wkd4SnVpOEVJWGFSOWZWTW0wNWpKQTFIZnMyREluQXQ5ajg0MjJIWkc3NmtPTnhiY2J6LUFaSGpVeGl4YS0tcFl1akZVYjU5RHd5OWRsb3J2NE5zZEM5VHYzaVBqT0JRczlRTkZYSWJfbnk1R2RpbHgydFA1QjJEV1M0NmlpT1ZrMllJdmZxRzl1R0pPQXo3cWd4NzVRMl9NdGo3Rllv?oc=5",
-          "ts": 1789617716000,
-          "data": "2026-09-17T04:01:56.000Z"
+          "titulo": "The Vogue Business Funding Tracker - Vogue",
+          "fonte": "Vogue",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02b2Y4OEVBeU4yMzJ6UFdZNlFOZzBMWWdfVGVJaWVIVnREZVM2OEZBdkRfQ21lWlR3T1QxSHZ6dHZDVHR6VU82U1YzY2xObU1UejJ4QzVRRXpvM3R5SXBGdDMyNXRaTnBNTmlSRnQ3OHhsZw?oc=5",
+          "ts": 1789637854000,
+          "data": "2026-09-17T09:37:34.000Z"
         },
         {
           "titulo": "Brands refocus on physical retail as AI disrupts digital customer acquisition - glossy.co",
@@ -355,6 +348,13 @@
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1htYjhYTjBCZXBrbzhJZ3NINHZ5UlN0dXRvTkk0Tm1wekF4QVl3YUdzNDdKMFV4WHo5dXNhekdtc1pVMlNsSzZZQ1dpTDFqb18yY1Bwdkp6NFVPLXJjcm5tMWEtUE9VQ3hob0hfZ3hSOWI2c2NFVG1tQ3d3TW1Sa01mM3BSeUtzUndpenN2d1RFLVNzWjdwVWNic2dINnViM2x6VDZ6LTlDVGli?oc=5",
           "ts": 1789547270000,
           "data": "2026-09-16T08:27:50.000Z"
+        },
+        {
+          "titulo": "Cheetah Net JoyPak Acquisition Expands Into Consumer and Beauty Products - Yahoo Finance",
+          "fonte": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRXlpWTgtSHBqS3VWUXFDNUIyQnJKcXVFOXhTeXppeTNiSHROTFd6cDBsb1NXcUgzZHd5WXhIalR5V1lVeUExbExlTWdUanJ6ZkYybW1NT3BrSFE0b1BQUUlKQnkzemJ3bldRSzE3RXJhN19iM012cnVVYXc1MTc5RzdxbmJCQUlYVzdvbjBuQUVWVWtWUl81SV9iRkV1cWREdnlzVDNR?oc=5",
+          "ts": 1789484266000,
+          "data": "2026-09-15T14:57:46.000Z"
         }
       ]
     },
@@ -368,6 +368,13 @@
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNXzZ5V2FhOXZvcTlmVkNmbmxDbmJ1OEYzT0E5ZUpkVHN6LXdPd1JwS1JqSE1NeEpwZkRmZlY3U2JoQVJsclFDdGl1aUo2Z2hYVlZFZ3BKRkNVWkpwcTdjNGZTNmNzUDZRS2l5VXVEN0oyendyT1JQZ1c1OHNIa2pYSEN5TEpDQzU3S0cwckg0bkFNYV96WVhhc21B?oc=5",
           "ts": 1789738765000,
           "data": "2026-09-18T13:39:25.000Z"
+        },
+        {
+          "titulo": "Envoy cresce mais de 30% em adoção da sua plataforma e alcança 10 milhões de pedidos roteirizados por mês - Gazeta da Semana",
+          "fonte": "Gazeta da Semana",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTmFZWFl5NFVVTm54b0dubFJuRUtHSS1yR1JEZ3h2ZTUxTXh5OGs4cGJqZGRlaGVRZ1Nhb0hoX2VQRGpabjFzSGpxM1paYkdVMzZRTnRPWHB2LXFNS21xTkswZnpBLUtyZUJ6eDRhX1hLVUttTDV3Y3FWVHllTWZKa0pheFdfYzY0Vzh0eDRtWDdKZkZBS1lGQWhDcE1rWTFUUzdsVHdPb1VGN2dnMF9vWXRfQ2JsNmRaMmMwaFhfRkpFN3RVcTBsVVJsTGZPc1VnQlBNQ3lCRHpESEtXR3hlUmh1aw?oc=5",
+          "ts": 1789714800000,
+          "data": "2026-09-18T07:00:00.000Z"
         },
         {
           "titulo": "Perfil dos Operadores Logísticos: Setor chega a R$ 247 bi e 31% já opera mais de um modal - Mundo Logística",
@@ -389,13 +396,6 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSFJnLWdiTTEtcGJiTk9jSE1BQWFyWENZQ3NpanVJTmtpRGN2d0RrWFhiVVRoclY1NzZRNzBiWXQ0YXljUWxCOEEtdlgzeEdpVUxLTmJELW9UeXV3NXY5S29MRlRZM0QtUUQ2MUxvYTdXdTFWXzFpMEdsRVc0amVqQ3FDM0E5YU13RmR2aVppbEZlWjF3UHNRMW5adTQ0M1ZTYnczbW41TEZwZ0dQY1Br?oc=5",
           "ts": 1789506000000,
           "data": "2026-09-15T21:00:00.000Z"
-        },
-        {
-          "titulo": "FedEx amplia rede logística com novas unidades - Gazeta do Povo",
-          "fonte": "Gazeta do Povo",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wWjE5N2hsTmhxbEF0NGdMN1dJZ052VXE1cThURUtfbFFobDlkMWR0NnE3STNoU2JveE9JNGlXSm1UUGxZZHRJemNhdTA0aXFtVXVkYW1OcnN1Z0ZiYnVyUHNDaTVnZklyNTB3NkxJUk5meHFGR2E4OG13?oc=5",
-          "ts": 1789486980000,
-          "data": "2026-09-15T15:43:00.000Z"
         },
         {
           "titulo": "Farizon amplia portfólio no Brasil com novo caminhão elétrico F3E - Balcão Automotivo",
@@ -474,11 +474,11 @@
           "data": "2026-09-16T16:49:00.000Z"
         },
         {
-          "titulo": "Lixo espacial: Novas tecnologias protegem satélites em órbita - PCGuia",
-          "fonte": "PCGuia",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOejdpRHhhMXJBWnVfb0huNFE3UFl1TWgweHJXeDQ5Q1JnVW05c3FaYmJBSjZ6dmxJU2d2Umk1VEc1aWNvQy1mQWc5c1B1NkF3dk10V0hiSWdsY1VaaDRreFdCX3FUQ2U2TmlVTzByRlVwMm9JcER4RzllUU51SFY3NDNyOXlQaUYyWlB3bjFRTjBmR2Z3Y3lYQmRKUnJ2WkgxY25LUkRyaw?oc=5",
-          "ts": 1789396226000,
-          "data": "2026-09-14T14:30:26.000Z"
+          "titulo": "Pele, cabelo e make: 30 lançamentos de beleza imperdíveis que chegam em setembro - A Gazeta",
+          "fonte": "A Gazeta",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWEZOMFdIM0NSNzAwSnBQLVZRanFBenRGMVkydHlUMndHdWVDcWh3UUQ1T0ZkQk9zTElWV3RFR0VUbExMOU9BY1Z0Q2RaLUl6d0hOT2ptM096czEteVlESHQ0ejVwUENSZUM1dXVhQ2dmVjBpUmttRE1EYVZnS1hkb0pKUU05enAyLXNBU2RVOHJ6ZmJyb0ZwVXZiM2pYMENMTmJHNDBjTVV1Sl9HYjZiS0JNbDIySlEwRXRR?oc=5",
+          "ts": 1789387200000,
+          "data": "2026-09-14T12:00:00.000Z"
         },
         {
           "titulo": "Salon Line amplia seu portfólio de beleza com 40 novidades; veja tudo! - TodaTeen",
@@ -486,13 +486,6 @@
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ1VwanoyVUw5bThIUFVFQ0p5MU1mWmNmc3hNa3RtUExTNGlvdXRlRFJMdkdJRGVZa1pzRjJlRGswRWhmUzk2b0phMnRjSU5vaVB1TFBJWXBzSWt6Tll1c2x4MGp3X0ROX05VamF6WHowbDU1c21tUkc0cjd5NFdzYUpuR1psWUhPSTFieVN2ZW0ybDdXLUdBREc5VjVVM1ZEbGJpME9Jck91V2FfTVFSTNIBtgFBVV95cUxPVk5TaHhXVXJaZU5BaFpWUHBoX2RtRzdUTy1Sd3o5TXRTdGdfTnpzdFd6UGxldVFsUkdMMW1ETVNQSDk4UVdtUnY0aUNndzdhbmRYQlVEYVVGRldDOV8ya0E4STNfYzFTS2hDU0J3SUVTRU9QM2toTU90Q0RSZjVWRGxmeDdzS3lzUmJWTGw0UGtydkZrU0ttQWtrNXU3bDZja3JCUGhleUNTYkZXVWJCcmh0U1VYUQ?oc=5",
           "ts": 1789073100000,
           "data": "2026-09-10T20:45:00.000Z"
-        },
-        {
-          "titulo": "Sallyport Lança Plataforma Truss Infrastructure Services com Louis Krannich como CEO - Data Portuaria",
-          "fonte": "Data Portuaria",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY3ZBdlFIOVdqbW51RGF3VHZnRm1Cd3V3YTNQa2t6RUVMLS1LU1hjdlFzLWhyNlJSRHYxTTVQQlAxRnpScXRSLWVZMWVVWGliemxCMFFnME9LSGNxbVdkdS1wdWdVdExvS1dTSUx0NldZc0tKWF82UUpLVGt2SGxEWWViTHpYTjBOT0trMTNnM3Z5UWhaTzJaRl9BNVJjNDhtbjRqdkQ0QU9zb0dwQlJ0S295aw?oc=5",
-          "ts": 1788969752000,
-          "data": "2026-09-09T16:02:32.000Z"
         },
         {
           "titulo": "Queda e afinamento capilar: novo protocolo promete cuidar dos fios em 5 etapas - JC",
@@ -557,18 +550,11 @@
           "data": "2026-09-18T18:35:04.000Z"
         },
         {
-          "titulo": "Como comparar agências de marketing digital no Rio de Janeiro - Tudo Rondônia",
-          "fonte": "Tudo Rondônia",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY1BWd0o1VVZQZnRmMURidW5YdnB5aGQxZEh5VVRLZVdzV0RmTTI2bEdjM3ZSems1UEc2dDZSOHFoeHY0NzlVSFdfaEdyTFVCb3VlYTJQbXUwVlZBbXlxWE1yd0pndGUxTjE1LWlaTW1EMlZQb2tTQ2ZWZFBqdHItWlBJYTZSbkduTXphOGZpQlVaXzFzWVRDbU5FNFVPTkNCTW5iWnZqR1dhRVd5VGt0WE5B?oc=5",
-          "ts": 1789657980000,
-          "data": "2026-09-17T15:13:00.000Z"
-        },
-        {
           "titulo": "Agência de marketing digital no Rio de Janeiro: como escolher entre tantas opções? - es1.com.br",
           "fonte": "es1.com.br",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGZacDBFVzdFLTg0ODNpdG90Qm5TbmhTMEZFVjhEVFUxRDFxRlNpT2pBSldxZ0Vxa1RqcXNmT01MUXg2X0FJckNPOUNFbTJMNWlRdFVzS0ViRXRhU0Rvdk82dU1vT09oOEkyVXZLMHlvVXJFbUJyN2RyYUpJcUVnR2VpQzBaem5FUk5IcG1DdzAyaEZib1gweWpNMHV4M29UT3c?oc=5",
-          "ts": 1789650778000,
-          "data": "2026-09-17T13:12:58.000Z"
+          "ts": 1789650791000,
+          "data": "2026-09-17T13:13:11.000Z"
         },
         {
           "titulo": "Esqueça o SEO: AEO e agentes de IA são a nova fronteira do marketing - E-Commerce Brasil",
@@ -583,6 +569,13 @@
           "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdFdhR0RXWWJyN1BRQ3BwWEJySUtFQzgyOENwdnhsd3FMUTc3TzBwVUphUTFvaVZMMkZXanJiUDVRS0JLbl9rNHhiRFBKTlZkMm15ZlpQdXp3WW53WmRQX0VQUndLTmlsQWU0dHhhNmlyQVNUUnBVX3ZqWkx1NEl3X2x1ZkRuRmVMRHRmYk1wUWtKNDFKc1BnRHJQZmNtVUprVDU1N3Z3YTc4RjNKcHpzQks4NkY3cXhlY3pZSTlUYVVUODR6V1RMQ1pXVjhNajNPdUVLXzF1MVh5dnNUaHR6X2hWa3JsNWZMakM5VUU3X3JtRVd3?oc=5",
           "ts": 1789603200000,
           "data": "2026-09-17T00:00:00.000Z"
+        },
+        {
+          "titulo": "E-commerce da Diadora Brasil melhora 43% na interatividade após migração de plataforma - Valor Econômico",
+          "fonte": "Valor Econômico",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZ08wMDNZYmpudGVqRWtReGh2QmZvazdfY0VPVS1wWW5XTVZ5N182aFdrUUZYUk5YLVQ5NGFqdjRMUEpjbFZfZFBTaTZVRDV6UVZOX091dEhzM2tDZF9LeDJ6Wm1ZVDl5UUFtR05uQjRiRTltdHFYcjdNZjlxT2hzSDR0TXdSa3R0eXJ2WEthbWZ4Z2lJOEowLXlIS25BcFgxTi12MnBzWjdIdzBFdExhMDltSHlieGdNNG9hS051LTdhRUdJazZXYzNTZlRTNHg3SFBWVDl2ZkRiV1BMandWaE1Qd1J1N01QaUZnTEpXMNIB_gFBVV95cUxQV0N5UFNQa0pELTFROWVnS1lDc3Q1NW1rdXdrU0ZPWEMzOGlkTDVOVnE2czBQM1o0bFVVWFNaUEpoRWtrN0pTa2lvaHZKZGx2ODZIYW5lcnFfX0hlVlFhUHlSTWJNQ0NsRnVONDR0WEx5ZFZLMDBiTHVlM1NuTkVTQ2JJcW4zcHprcFFkM3pTRXpVaU9GVmFaUURIWFhlaWNPNEJHOEZxbFFsU054SW5kRVVRcnhMYUROd0p6Y0VXTzJWdVI2a1FORzRKaWxwcHVDRXh0ZDN0TmNGX2pVREdyNWNPVUhIdnRUSWJKd3hSTXhGbEltNVRoeTBMN3hwZw?oc=5",
+          "ts": 1789571391000,
+          "data": "2026-09-16T15:09:51.000Z"
         },
         {
           "titulo": "ABM é passageiro? Eficiência e números dizem o contrário - E-Commerce Brasil",
